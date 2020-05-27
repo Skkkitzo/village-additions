@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="e9cd0959-5ae6-406b-b115-d7057faf9e59">
+	<meta id="1b546e9c-8ab7-49c0-bc8e-2e79620dd382" type="group" folder="true" name="Materials">
+		<meta id="6724687b-d4d5-4e47-9e8a-e6d96cc7d2b8" name="_6_tree"/>
+		<meta id="717cecf9-da1a-47e1-9268-8fca6c10fbfc" name="Material.001"/>
+		<meta id="104b9291-0655-4113-8a35-9b63b35f6427" name="Material.002"/>
+	</meta>
+	<meta id="db32b01a-aea1-4571-9fef-21dc10b9103a" type="group" folder="true" name="Meshes">
+		<meta id="50c07fba-3a4c-4c04-934c-de99fac9d77f" name="Tree__6_tree"/>
+		<meta id="5189a3e6-8962-41af-8d31-ce6b0ae0d749" name="Tree_Material.001"/>
+		<meta id="d5c148b9-441f-4f16-8b58-1564270b4d0e" name="Tree_Material.002"/>
+	</meta>
+	<meta id="59f603be-1506-4bcc-885b-ae4cb1849d9c" name="Prefab">
+		<meta id="413c3bfe-bdb6-444a-8bdb-941a04e3a2f4" name="Tree">
+			<meta id="4fa14a42-1ba8-4981-bf49-99b0e658e7a0" name="Tree_0"/>
+			<meta id="0f15d390-ff75-481e-8be5-fc3195e80d59" name="Tree_1"/>
+			<meta id="46b3208a-ea55-44f6-a32e-b3972dff3fbe" name="Tree_2"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="d8de643b8c1585713d5cf10c7c285515"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ForceNormalUp value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Tree_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Tree_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Tree_2"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Tree"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="717cecf9-da1a-47e1-9268-8fca6c10fbfc"/>
+			<MaterialName value="Material.001"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="104b9291-0655-4113-8a35-9b63b35f6427"/>
+			<MaterialName value="Material.002"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="6724687b-d4d5-4e47-9e8a-e6d96cc7d2b8"/>
+			<MaterialName value="_6_tree"/>
+		</Item>
+	</MaterialList>
+</importer>
+

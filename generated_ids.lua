@@ -1,0 +1,52 @@
+-- This is a generated file
+-- Do not modify it, unless you know exactly what you are doing
+
+ModId = "b14d574f-628b-4008-8706-5dd4c4172f2e"
+
+IdMap = { 
+    { "BARN_FUNCTION_LIST", "BUILDING_FUNCTION_LIST", "c2ba031f-0078-47db-a32a-ad23ab5db959" },
+	{ "POTIONSHOP", "BUILDING", "9042b7cb-9644-45fc-9aca-19c05a12ce41" },
+	{ "POTIONSHOP_PART", "BUILDING_PART", "9cf45f40-6ad9-4132-b280-7ab0606f7295" },
+	{ "BARN_FUNCTION_1", "BUILDING_FUNCTION", "b436d555-8f67-4697-b484-56f0b430f722" },
+	{ "POTIONSHOP_FUNCTION", "BUILDING_FUNCTION", "3f323795-23b3-4287-ac6f-358355b229db" },
+	{ "models/barn.fbx", "", "82854e5a-ad32-49b2-a7f5-080b382dddbd" },
+	{ "BARN", "BUILDING", "85d5ca91-ce8b-48c5-8db8-b77804f00496" },
+	{ "BARN_FUNCTION_2", "BUILDING_FUNCTION", "bc941117-313c-480b-a1ef-d2f415cff979" },
+	{ "BARN_PART", "BUILDING_PART", "aa5338cb-ff76-4ac2-8a99-641ae29c9722" },
+	{ "models/pig.fbx", "", "579dbe72-0670-4214-b188-4965de71a54c" },
+	{ "BARN_FUNCTION", "BUILDING_FUNCTION", "a997e6d4-9ad3-496c-b1c3-5f0f0b0f9f96" },
+	{ "WAGON", "BUILDING", "ae108d3e-357d-4550-870a-2701fa9ee6ba" },
+	{ "models/potionshop.fbx", "", "2b4acc11-b69e-47ac-9d51-3c2048286042" },
+	{ "BUTCHER", "BUILDING", "ccc84e38-1391-4b50-abef-7e6fbeb70707" },
+	{ "BUTCHER_PART", "BUILDING_PART", "4f1ee9e5-720d-48a2-a290-fbdf63944435" },
+	{ "BEEF", "RESOURCE", "40f9b168-591c-460c-b4e7-df4bf99eee00" },
+	{ "BUTCHER_FUNCTION", "BUILDING_FUNCTION", "853e17f0-80ad-409b-96f4-c9754a208b7d" },
+	{ "BUTCHER_FUNCTION_LIST", "BUILDING_FUNCTION_LIST", "2cdf43b9-1797-4d44-a48f-667992f4c99f" },
+	{ "BUTCHER_FUNCTION_1", "BUILDING_FUNCTION", "2835a834-6e4f-49da-b737-3a49bb12d730" },
+	{ "BUTCHER_FUNCTION_2", "BUILDING_FUNCTION", "416313a6-1662-4404-8d18-142d42baa189" },
+	{ "CATTLE", "RESOURCE", "5d5a71d2-2530-4d4e-8c2e-70271bee62dc" },
+	{ "WAGON_PART", "BUILDING_PART", "1396f385-4261-4698-9c05-53b0f3aab91c" },
+	{ "TOWNSQUARE", "BUILDING", "548e14ba-c1e5-4ed8-92f2-6cb8c7cad4aa" },
+	{ "TOWNSQUARE_PART", "BUILDING_PART", "959a963d-c65b-40aa-9353-36711abe8b7c" },
+	{ "BARREL_STATUE", "BUILDING", "19f3da05-ec77-437e-aac3-bf7a870da3c8" },
+	{ "models/barrelstatue.fbx", "", "67b072f3-e39c-4f7c-865e-b91a6dd48800" },
+	{ "BARREL_STATUE_PART", "BUILDING_PART", "7f6f3172-c50a-47f7-9bc6-240ba0278206" },
+	{ "CRATE_STATUE", "BUILDING", "d87d6b18-bfac-4c52-8082-e888e8660c70" },
+	{ "CRATE_STATUE_PART", "BUILDING_PART", "37bb6af1-f53c-4674-83f1-414e569b69cb" },
+	{ "TREE_OAK", "BUILDING", "b884f3b8-81be-4877-b6e9-1c2abe65fe4c" },
+	{ "TREE_OAK_PART", "BUILDING_PART", "b91e2fd9-d0d5-4712-94a4-2978d7719b37" },
+	{ "POTION", "RESOURCE", "c7671f44-0d76-459e-a772-6fbb464a0c22" },
+	{ "PIG", "RESOURCE", "32c22fe8-08f1-4201-8551-6bbd2fec130b" },
+	{ "PORK", "RESOURCE", "3aebf826-acae-4e0c-bf9e-8544a0fe99f5" },
+	{ "icons/beef.png", "", "ad98622b-88c7-41d2-b65f-169fc0a08f99" },
+	{ "icons/cattle.png", "", "f96ec7e5-236b-40f6-8d27-bbd92f88496b" },
+	{ "icons/pig.png", "", "a3d34b46-b4d6-48c3-ae5d-a29d62060853" },
+	{ "icons/pork.png", "", "2246ffda-130b-4f2d-b40d-437bd051d0fd" },
+	{ "icons/potion.png", "", "947c377e-fb0b-4d79-93ca-fb317293105e" },
+	{ "models/butcher.fbx", "", "f728615a-642d-41e0-95bd-aa6b05d431c0" },
+	{ "models/cratestatue.fbx", "", "dc8dfdb9-2492-4916-9884-5b15b66a17f5" },
+	{ "models/townsquare.fbx", "", "ece3cc74-3190-43bb-ae16-9e3497d91f49" },
+	{ "models/tree.fbx", "", "e9cd0959-5ae6-406b-b115-d7057faf9e59" },
+	{ "models/wagon.fbx", "", "b855b56a-4462-4e36-931b-5bf36c4d8ca4" }
+}
+

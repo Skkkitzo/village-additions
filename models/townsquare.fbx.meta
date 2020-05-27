@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="ece3cc74-3190-43bb-ae16-9e3497d91f49">
+	<meta id="9583bda5-1d07-4b76-bb09-510bb7a92b5f" type="group" folder="true" name="Materials">
+		<meta id="d02f6309-7899-46c2-a96e-d5b0cceb0e60" name="Material.002"/>
+	</meta>
+	<meta id="b2bdfd88-f31c-4f79-a72e-e2c69b3af8a8" type="group" folder="true" name="Meshes">
+		<meta id="899604a7-5c71-458c-b5a9-ecd62a970d38" name="Pillar_Material.002"/>
+	</meta>
+	<meta id="071afab8-f758-4a15-a522-715d3f9ab6f6" name="Prefab">
+		<meta id="fc31a39e-91ed-4952-9ff7-d0041953deb8" name="Townsquare">
+			<meta id="43413414-979c-4cdd-8dd1-1801dc5b8bbb" name="Pillar"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="fc8a689a41fff746ca6defb0d23cf5be"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ForceNormalUp value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Pillar"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Townsquare"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="d02f6309-7899-46c2-a96e-d5b0cceb0e60"/>
+			<MaterialName value="Material.002"/>
+		</Item>
+	</MaterialList>
+</importer>
+

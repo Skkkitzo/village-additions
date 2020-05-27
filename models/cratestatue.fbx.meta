@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="dc8dfdb9-2492-4916-9884-5b15b66a17f5">
+	<meta id="5c64f053-f524-4791-8543-57ec41b8cdb3" type="group" folder="true" name="Materials">
+		<meta id="1e4b8b35-defd-40d9-9974-7132286b6234" name="Material.007"/>
+		<meta id="a9fe5bef-b141-4af0-a80b-b4b34693f400" name="Material.001"/>
+	</meta>
+	<meta id="9045a37f-b4bf-4e7c-ab6d-166b464e51e8" type="group" folder="true" name="Meshes">
+		<meta id="358d9705-2fc9-4e5f-9ac0-ba9af48328ba" name="Base_Material.007"/>
+		<meta id="90c855b9-befc-47a0-973d-c5cc158a79ae" name="Box_Material.001"/>
+	</meta>
+	<meta id="a2e003ce-8c11-4fbb-9342-51bc1938e788" name="Prefab">
+		<meta id="744a2fe7-95f0-46fa-8778-29eef267a215" name="Statue">
+			<meta id="9435aefb-d5c9-446e-aec7-36bdc0a3324c" name="Base"/>
+			<meta id="06faf261-05ee-4308-b107-f651be1b3554" name="Box"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="c7e235da83d3f2a4a43a9cd5c24ac9c7"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ForceNormalUp value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Base"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Box"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Statue"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a9fe5bef-b141-4af0-a80b-b4b34693f400"/>
+			<MaterialName value="Material.001"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="1e4b8b35-defd-40d9-9974-7132286b6234"/>
+			<MaterialName value="Material.007"/>
+		</Item>
+	</MaterialList>
+</importer>
+

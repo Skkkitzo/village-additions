@@ -1,0 +1,44 @@
+{
+    "BUILDINGS": {
+        "POTIONSHOP_NAME": "Potionshop",
+        "TOWNSQUARE_NAME": "Townsquare",
+        "WAGON_NAME": "Wagon",
+        "BARREL_STATUE_NAME": "Barrel Statue",
+        "CRATE_STATUE_NAME": "Crate Statue",
+        "BARN_NAME": "Barn",
+        "BUTCHER_NAME": "Butcher",
+        "TREE_OAK_NAME": "Oak Tree"
+    },
+    "BUILDING_DESCRIPTIONS": {
+        "POTIONSHOP_DESC": "Witches brew potions here",
+        "TOWNSQUARE_DESC": "A centre for your village",
+        "WAGON_DESC": "Decorative wagon",
+        "BARREL_STATUE_DESC": "A statue in tribute of your villagers",
+        "CRATE_STATUE_DESC": "A statue to celebrate the brave crates",
+        "BARN_DESC": "A barnyard for growing animals",
+        "BUTCHER_DESC": "Turns your live animals into delicious meat"
+    },
+	"RESOURCES": {
+        "POTION_RESOURCE": "Potion",
+        "CATTLE_RESOURCE": "Cattle",
+        "PIG_RESOURCE": "Pigs",
+        "BEEF_RESOURCE": "Beef",
+        "PORK_RESOURCE": "Pork"
+    },
+    "ESTATES": {
+        "ESTATE_MANAGER": "Estates",
+        "ARMY_MANAGER": "Army"
+    },
+    "LABELS": {
+        "SPAWN_COW_LABEL": "Spawn cow",
+        "REMOVE_COW_LABEL": "Remove cow",
+        "SPAWN_PIG_LABEL": "Spawn pig",
+        "REMOVE_PIG_LABEL": "Remove pig"
+    },
+    "FUNCTIONS": {
+        "BARN_FUNCTION_1_NAME": "Cattle farm",
+        "BARN_FUNCTION_2_NAME": "Pig farm",
+        "BUTCHER_FUNCTION_1_NAME": "Beef Butcher",
+        "BUTCHER_FUNCTION_2_NAME": "Pork Butcher"
+    }
+}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="579dbe72-0670-4214-b188-4965de71a54c">
+	<meta id="537f476e-d5af-4fc9-9fba-5df5bd9ee935" type="group" folder="true" name="Materials">
+		<meta id="c9197c1e-ca5d-4708-80d6-a212e1b823db" name="Default OBJ"/>
+	</meta>
+	<meta id="637b7bf6-3965-4c9c-90b6-58b7ded6be94" type="group" folder="true" name="Meshes">
+		<meta id="7c9d432f-e69e-41a3-bbca-08d6886757be" name="Pig_Default OBJ"/>
+	</meta>
+	<meta id="7a9b78d2-2e17-488e-9953-0722c3eea173" name="Prefab">
+		<meta id="90b33545-5572-4eeb-b264-b9899ad1f45b" name="Pig"/>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="7658aedfe57f9197b7b022d1e9aff1ee"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ForceNormalUp value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Pig"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="c9197c1e-ca5d-4708-80d6-a212e1b823db"/>
+			<MaterialName value="Default OBJ"/>
+		</Item>
+	</MaterialList>
+</importer>
+

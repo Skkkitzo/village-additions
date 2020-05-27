@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="b855b56a-4462-4e36-931b-5bf36c4d8ca4">
+	<meta id="2a6f85d1-d72e-41f0-ad0a-44148b9749eb" type="group" folder="true" name="Materials">
+		<meta id="48fa5454-7939-4fee-853a-826b8f41b77c" name="Material.014"/>
+		<meta id="7a7ed289-5618-4ebc-9401-3bb5b5e13bbd" name="Material.011"/>
+		<meta id="21dba1ee-d1c6-442c-b917-396995113ef9" name="Material.008"/>
+		<meta id="7edeaee5-c3fe-46dc-a036-88d52d0a4f6c" name="Material.002"/>
+		<meta id="51dde161-fcb6-426f-b091-da5e0c84a4b1" name="Material.003"/>
+		<meta id="994d7967-9f4d-4792-88d0-1560242439c0" name="Material.004"/>
+		<meta id="66a03fb8-2b6c-4ecc-a50d-33799f8253bc" name="Material.001"/>
+		<meta id="9f982b10-ff87-43dc-84b2-c054c6149f7b" name="Material.007"/>
+		<meta id="a016d9d0-08e0-481f-af0b-1f17e992042d" name="Material.006"/>
+		<meta id="2fc7b1d7-a6f8-4751-b384-fd50e8805df5" name="Material.005"/>
+		<meta id="34303e48-f6d6-4d0d-b87a-a2cbea63471a" name="Material.010"/>
+		<meta id="2ad19b29-6989-4c5e-8b9a-bb8eb8a9608f" name="Material.012"/>
+		<meta id="be970d13-2f9d-42db-9277-4e6ec9f325d1" name="Material.013"/>
+		<meta id="1757def4-27d5-4545-9097-fe8720ff0929" name="Material.015"/>
+		<meta id="bcbb2aac-8ef4-407e-b21d-01570752639e" name="Material.016"/>
+		<meta id="3de05104-d391-47b8-93dd-7278e2e12d4d" name="Material.017"/>
+		<meta id="8216198e-f75e-4915-8bb9-a591f4b14b43" name="Material.018"/>
+		<meta id="1c985374-5f3f-4a6b-8da1-52dd74528124" name="Material.019"/>
+		<meta id="10e14f01-2c35-4c3d-bb03-b0497a8b65b9" name="Material.020"/>
+		<meta id="5997a38c-7234-494a-b120-0c79f973f58b" name="Material.021"/>
+		<meta id="8562e4b5-9407-40bb-8b01-5d7ee26b3798" name="Material.022"/>
+		<meta id="ff74968c-338f-4245-a093-bb49ed3b5bc5" name="Material.023"/>
+		<meta id="e0dc945e-5319-4455-8674-6b8525876446" name="Material.024"/>
+		<meta id="ce1b92f9-325d-4db2-b7aa-597c1b92d3b1" name="Material.025"/>
+		<meta id="e5766412-8036-466b-a302-e94600bff3df" name="Material.026"/>
+		<meta id="1433868f-d9e4-4da0-9a73-7b7bd2c486eb" name="Material.027"/>
+	</meta>
+	<meta id="04ef9c51-5d84-455e-968a-821cbb5c4609" type="group" folder="true" name="Meshes">
+		<meta id="f0571389-9f62-47d2-844f-97e8a920665e" name="SideSupport_a_Material.014"/>
+		<meta id="d806b4e3-3d82-47c7-88a2-0f42cffe6f23" name="Planks_a_Material.011"/>
+		<meta id="b3eda0fd-b664-4a84-8512-175f3f04b8a9" name="Base1_Material.008"/>
+		<meta id="e1d70457-4226-4817-8072-d1113ae14a47" name="Wheel_l_Material.002"/>
+		<meta id="3a026a29-5b37-4930-9df7-fb2b6d19ad4f" name="Wheel_l_Material.003"/>
+		<meta id="8596822c-e2dc-4377-aa2a-2afb46fe7d1c" name="Wheel_l_Material.004"/>
+		<meta id="aa7e0e8c-b4ca-427b-9112-f171efefb86a" name="Axel_Material.001"/>
+		<meta id="1bd29747-95ff-41fb-ba51-2a388b287203" name="Wheel_r_Material.007"/>
+		<meta id="a97a5769-382a-41fa-b01d-ecd51d89042b" name="Wheel_r_Material.006"/>
+		<meta id="d07cbe40-9d79-4003-bff1-d38e64ac72a7" name="Wheel_r_Material.005"/>
+		<meta id="fc674698-a8d8-4828-8eb3-442af86ce474" name="Planks_b_Material.012"/>
+		<meta id="4f1975f6-2d28-415b-87f0-d7ab4e70f514" name="SideSupport_j_Material.015"/>
+		<meta id="fd3e13f8-b454-4bb7-8457-e4f63fdea871" name="SideSupport_e_Material.018"/>
+		<meta id="d7c3c53f-fca3-454a-b203-49feac80e485" name="SideTopSupport_c_Material.027"/>
+	</meta>
+	<meta id="540a11b1-7779-4b12-9296-555ad378448a" name="Prefab">
+		<meta id="609e93b9-9273-4806-8aa2-c66433fb4852" name="Wagon">
+			<meta id="b4fd05fc-f1c8-47b4-86ef-a7e861604938" name="SideSupport_a"/>
+			<meta id="cf487200-eca8-459e-972f-0a31c0aeb155" name="Planks_a"/>
+			<meta id="30f60ac4-da0e-4623-a9f5-4150ae570b9a" name="Base1"/>
+			<meta id="1a874cad-cf04-487a-b6af-6d90da23f173" name="Wheel_l">
+				<meta id="7bd10de3-4e19-4314-a599-59d55bb44ab9" name="Wheel_l_0"/>
+				<meta id="00024727-70c3-480e-a1b9-03a32ea1a1f9" name="Wheel_l_1"/>
+				<meta id="8b6fe7c1-62fd-4343-a883-efe7b8d258a8" name="Wheel_l_2"/>
+			</meta>
+			<meta id="6a4bb5ee-ae32-4f02-b2b6-a90a20630cfa" name="Axel"/>
+			<meta id="da1f99cc-77d3-49c9-9a8c-d209a126b1db" name="Wheel_r">
+				<meta id="173f71b3-42d8-4fa1-a7f1-b498be3ac5c7" name="Wheel_r_0"/>
+				<meta id="4e7e6277-e4f6-4eaa-8b41-5212fa8fe889" name="Wheel_r_1"/>
+				<meta id="9371d734-9665-4652-8d91-f0466bc7c2f5" name="Wheel_r_2"/>
+			</meta>
+			<meta id="bf58b53e-07e8-4f51-902d-56e0d113c4cf" name="Base2"/>
+			<meta id="767366c1-591d-41ec-be43-8c586d05a142" name="Planks_b"/>
+			<meta id="a2e967ac-5147-4cc7-b78f-4a1caa8e8b84" name="Planks_c"/>
+			<meta id="63e9bf49-2054-46a9-a1ea-de3e2d517a75" name="SideSupport_j"/>
+			<meta id="c797a7c9-bffd-426f-ae51-7b3fc628d665" name="SideSupport_i"/>
+			<meta id="e520002a-bb97-4504-ba44-fe42ac5e58b5" name="SideSupport_d"/>
+			<meta id="ecb0e044-abdb-40b6-be00-db0b6de463bf" name="SideSupport_e"/>
+			<meta id="4234d182-1d67-4b91-81e3-07eb7800cedb" name="SideSupport_f"/>
+			<meta id="27a5ca1a-2592-403e-b3af-d75f0e1f4ffc" name="SideSupport_g"/>
+			<meta id="80a10561-5969-413c-a599-f0d058bb4cc5" name="SideSupport_h"/>
+			<meta id="af58dfe3-b6a1-4036-b49c-8b8f4ff3aec1" name="SideSupport_c"/>
+			<meta id="f63de3c1-f389-48ac-b12f-3b66d105c9a8" name="SideSupport_b"/>
+			<meta id="cfa2f3b3-8ee8-4179-8578-cf1fe1fc97e1" name="SideSupport_k"/>
+			<meta id="8a41ba06-97b1-49c2-ac0d-0b3d8e32294a" name="SideTopSupport_a"/>
+			<meta id="bce08cc9-ccb7-4803-af92-32e4e6071b6b" name="SideTopSupport_b"/>
+			<meta id="07ded0cb-cadc-4c8c-b086-ad6b2c8887d0" name="SideTopSupport_c"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="93b720e88f134411b4c404e41df14c98"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ForceNormalUp value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SideSupport_a"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Planks_a"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Base1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Wheel_l_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Wheel_l_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Wheel_l_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Wheel_l"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Axel"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Wheel_r_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Wheel_r_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Wheel_r_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Wheel_r"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Base2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Planks_b"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Planks_c"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SideSupport_j"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SideSupport_i"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SideSupport_d"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SideSupport_e"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SideSupport_f"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SideSupport_g"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SideSupport_h"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SideSupport_c"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SideSupport_b"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SideSupport_k"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SideTopSupport_a"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SideTopSupport_b"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SideTopSupport_c"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Wagon"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="66a03fb8-2b6c-4ecc-a50d-33799f8253bc"/>
+			<MaterialName value="Material.001"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="7edeaee5-c3fe-46dc-a036-88d52d0a4f6c"/>
+			<MaterialName value="Material.002"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="51dde161-fcb6-426f-b091-da5e0c84a4b1"/>
+			<MaterialName value="Material.003"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="994d7967-9f4d-4792-88d0-1560242439c0"/>
+			<MaterialName value="Material.004"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="2fc7b1d7-a6f8-4751-b384-fd50e8805df5"/>
+			<MaterialName value="Material.005"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a016d9d0-08e0-481f-af0b-1f17e992042d"/>
+			<MaterialName value="Material.006"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="9f982b10-ff87-43dc-84b2-c054c6149f7b"/>
+			<MaterialName value="Material.007"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="21dba1ee-d1c6-442c-b917-396995113ef9"/>
+			<MaterialName value="Material.008"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="34303e48-f6d6-4d0d-b87a-a2cbea63471a"/>
+			<MaterialName value="Material.010"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="7a7ed289-5618-4ebc-9401-3bb5b5e13bbd"/>
+			<MaterialName value="Material.011"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="2ad19b29-6989-4c5e-8b9a-bb8eb8a9608f"/>
+			<MaterialName value="Material.012"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="be970d13-2f9d-42db-9277-4e6ec9f325d1"/>
+			<MaterialName value="Material.013"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="48fa5454-7939-4fee-853a-826b8f41b77c"/>
+			<MaterialName value="Material.014"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="1757def4-27d5-4545-9097-fe8720ff0929"/>
+			<MaterialName value="Material.015"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="bcbb2aac-8ef4-407e-b21d-01570752639e"/>
+			<MaterialName value="Material.016"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="3de05104-d391-47b8-93dd-7278e2e12d4d"/>
+			<MaterialName value="Material.017"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="8216198e-f75e-4915-8bb9-a591f4b14b43"/>
+			<MaterialName value="Material.018"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="1c985374-5f3f-4a6b-8da1-52dd74528124"/>
+			<MaterialName value="Material.019"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="10e14f01-2c35-4c3d-bb03-b0497a8b65b9"/>
+			<MaterialName value="Material.020"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="5997a38c-7234-494a-b120-0c79f973f58b"/>
+			<MaterialName value="Material.021"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="8562e4b5-9407-40bb-8b01-5d7ee26b3798"/>
+			<MaterialName value="Material.022"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ff74968c-338f-4245-a093-bb49ed3b5bc5"/>
+			<MaterialName value="Material.023"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e0dc945e-5319-4455-8674-6b8525876446"/>
+			<MaterialName value="Material.024"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ce1b92f9-325d-4db2-b7aa-597c1b92d3b1"/>
+			<MaterialName value="Material.025"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e5766412-8036-466b-a302-e94600bff3df"/>
+			<MaterialName value="Material.026"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="1433868f-d9e4-4da0-9a73-7b7bd2c486eb"/>
+			<MaterialName value="Material.027"/>
+		</Item>
+	</MaterialList>
+</importer>
+
