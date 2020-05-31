@@ -2,11 +2,11 @@
     "Name": "Village Additions",
     "Author": "Skkkitzo",
     "Description": "Adds some much needed buildings and production chains to flesh out the game",
-    "Version": "1.0.0",
+    "Version": "3.0.4",
     "AdditionalLanguageList": [
         {
-            "Name": "German",
-            "Code": "de"
+            "Name": "Klingon",
+            "Code": "klh"
         }
     ]
 }

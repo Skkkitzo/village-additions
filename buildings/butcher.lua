@@ -73,7 +73,10 @@ mod:register({
 	RelatedJob = { Job = "COOK", Behavior = "WORK_BEHAVIOR" },
 	InputInventoryCapacity = { { Resource = "CATTLE", Quantity = 20 } },
 	ResourceListNeeded = { { Resource = "CATTLE", Quantity = 1 } },
-    ResourceProduced = { { Resource = "BEEF", Quantity = 1 } }
+    ResourceProduced = { 
+		{ Resource = "BEEF", Quantity = 1 },
+		{ Resource = "TALLOW", Quantity = 1}
+	}
 })
 
 -- pork
