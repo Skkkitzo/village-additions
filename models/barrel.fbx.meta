@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="9c24e85f-607d-4d4b-98a4-1e674282425d">
+	<meta id="d4c3eb06-08e5-4fb6-8f48-d5d2d6f1142b" type="group" folder="true" name="Materials">
+		<meta id="7c473a3b-8589-4749-ad05-f71b7d51c67d" name="Material.001"/>
+		<meta id="7daedcbf-8739-443a-90a4-0a93d6408aa1" name="Material.002"/>
+		<meta id="75dac0c5-0dc4-4dc2-b1bf-96c37c522f5b" name="Material.004"/>
+		<meta id="f29c0add-b38d-4635-807a-d75fe1e7a90c" name="Material.003"/>
+		<meta id="7ed50ca6-b573-4c21-a685-c5b767a8cbc8" name="Material.006"/>
+		<meta id="a6aa72fd-c0fb-47da-bc47-3d9d31cb7751" name="Material.005"/>
+		<meta id="f2d7e405-45b6-4c04-9067-529533d5bd8c" name="Material.008"/>
+		<meta id="117c883d-e189-4df8-8957-bb292b4fde4c" name="Material.007"/>
+		<meta id="0373b668-98b0-43c1-9bd1-cf63e3545c49" name="Material.010"/>
+		<meta id="0b555628-0484-4946-bc2a-000dcbe8c3bd" name="Material.009"/>
+		<meta id="5c5568aa-58bd-48fa-a46e-22ca0c0e865d" name="Material.012"/>
+		<meta id="dea3ecda-9b71-49a6-87e0-9d2331db33b5" name="Material.011"/>
+		<meta id="5f7efd45-9950-414e-836c-b89746b2a3a3" name="Material.014"/>
+		<meta id="65fefb7d-2f4d-4516-9b0b-d4179feaaf39" name="Material.013"/>
+		<meta id="6dce088f-0113-45c3-b74c-b91a9287709a" name="Material.020"/>
+		<meta id="b1fa7599-b22d-469f-9511-e5ae9867a565" name="Material.019"/>
+		<meta id="2e13a532-3230-4f40-bb5c-4f2c43e0d8ad" name="Material.018"/>
+		<meta id="4e540591-be2f-4948-83f6-8c3732ef6490" name="Material.017"/>
+		<meta id="f752f1d2-3219-44f2-93c8-1c7ed4211f01" name="Material.016"/>
+		<meta id="ca4f06b6-1b87-454b-8522-c2732dd1d588" name="Material.015"/>
+	</meta>
+	<meta id="f894b361-07ed-4f2b-879d-c6fad5cc0ee0" type="group" folder="true" name="Meshes">
+		<meta id="1df4b705-ce7c-4af2-ac0c-ac2a3feb58a0" name="barrel_Material.001"/>
+		<meta id="154c074a-be10-4b6d-b978-fe4ecc3a3cdf" name="barrel_Material.002"/>
+	</meta>
+	<meta id="66b694f4-41ef-4727-ac20-08114a831681" name="Prefab">
+		<meta id="290545fd-89cf-43fa-b66b-d89233ca6739" name="Barrel">
+			<meta id="cff8d8e5-a56c-4b55-ada5-be1305be5f8c" name="barrel">
+				<meta id="832c2619-0f87-42a6-b7af-e2206d8c7080" name="barrel_0"/>
+				<meta id="a76f7fd5-1dc9-436b-a432-7b930978bfc2" name="barrel_1"/>
+			</meta>
+		</meta>
+		<meta id="447e9667-0081-4392-a028-8f53dddfb7a8" name="SideBarrel">
+			<meta id="8820c952-b3fc-471e-b577-36e657e1654a" name="sidebarrel">
+				<meta id="58dcf357-5210-4297-a4bf-7b9c331386d8" name="sidebarrel_0"/>
+				<meta id="89d81ea0-706e-455e-b63d-f3ab8c2ae3c3" name="sidebarrel_1"/>
+			</meta>
+		</meta>
+		<meta id="9ee701b4-9b20-4b27-aaf3-ee95d5895bff" name="StackBBarrel">
+			<meta id="0a56972f-2cbd-45c1-88ae-1869a18ce1be" name="stackbbarrel01">
+				<meta id="d25104df-6e00-421c-ac15-df744d389602" name="stackbbarrel01_0"/>
+				<meta id="3a037c65-e9fd-4491-a992-571607489cf2" name="stackbbarrel01_1"/>
+			</meta>
+			<meta id="0ce02311-6bd5-49f4-9b25-8253d33e1c80" name="stackbbarrel02">
+				<meta id="781c8be9-7862-4b73-9238-3f345d34f04d" name="stackbbarrel02_0"/>
+				<meta id="7bff0d1f-ebb2-46c6-a505-6511e645af66" name="stackbbarrel02_1"/>
+			</meta>
+			<meta id="ca0c05b5-f31c-4809-adbc-60ca93d3d93c" name="stackbbarrel03">
+				<meta id="5baad68e-3b2a-4615-baa0-4820f97270da" name="stackbbarrel03_0"/>
+				<meta id="e2f3cfa3-3933-43f0-b2e4-cbf9898bd59d" name="stackbbarrel03_1"/>
+			</meta>
+			<meta id="cd3208db-7caa-47b4-998a-efd24c4aa3d1" name="stackbbarrel04">
+				<meta id="1a8c55c5-189d-4bb0-ab5a-45714cbea9ef" name="stackbbarrel04_0"/>
+				<meta id="1925edae-ed5e-4c34-8fc4-f37053a8ff74" name="stackbbarrel04_1"/>
+			</meta>
+			<meta id="00eea015-8d52-477f-9c25-c6b4c487718c" name="stackbbarrel05">
+				<meta id="375a0480-aeb7-4254-ba69-541cc24c1b58" name="stackbbarrel05_0"/>
+				<meta id="8117b9e8-1ac1-4775-8395-e54f62f460b2" name="stackbbarrel05_1"/>
+			</meta>
+		</meta>
+		<meta id="b463d4b2-89af-4e1c-baca-1a6e2ef99681" name="StackABarrel">
+			<meta id="489e8341-a0b0-4a72-84e8-c669dc69ac85" name="stackabarrel01">
+				<meta id="49b7d235-257e-40e4-819d-55d0c0457a22" name="stackabarrel01_0"/>
+				<meta id="753b5d5c-3e0f-4c41-8f7b-e91e2e880afa" name="stackabarrel01_1"/>
+			</meta>
+			<meta id="e76a4046-4af3-430d-ae76-18ae395f2d17" name="stackabarrel02">
+				<meta id="feaed734-b837-4a88-a4cd-6edeb02d31ff" name="stackabarrel02_0"/>
+				<meta id="228308bc-4376-4a2f-926d-9a79ea818971" name="stackabarrel02_1"/>
+			</meta>
+			<meta id="41b886d6-a98e-4b34-b48f-7765f61ab2fe" name="stackabarrel03">
+				<meta id="7c939794-5a87-4b3b-9ea1-b00b4dc8c072" name="stackabarrel03_0"/>
+				<meta id="2e457102-167e-4d00-bf4f-a1ac97c0a20d" name="stackabarrel03_1"/>
+			</meta>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="42781a4e63f97be0d15cfcd8b0d43404"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ForceNormalUp value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="barrel"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Barrel"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="sidebarrel_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="sidebarrel_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="sidebarrel"/>
+					</Item>
+				</ChildList>
+				<NodeName value="SideBarrel"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="stackbbarrel01_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="stackbbarrel01_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="stackbbarrel01"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="stackbbarrel02_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="stackbbarrel02_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="stackbbarrel02"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="stackbbarrel03_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="stackbbarrel03_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="stackbbarrel03"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="stackbbarrel04_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="stackbbarrel04_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="stackbbarrel04"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="stackbbarrel05_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="stackbbarrel05_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="stackbbarrel05"/>
+					</Item>
+				</ChildList>
+				<NodeName value="StackBBarrel"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="stackabarrel01_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="stackabarrel01_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="stackabarrel01"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="stackabarrel02_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="stackabarrel02_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="stackabarrel02"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="stackabarrel03_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="stackabarrel03_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="stackabarrel03"/>
+					</Item>
+				</ChildList>
+				<NodeName value="StackABarrel"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="7c473a3b-8589-4749-ad05-f71b7d51c67d"/>
+			<MaterialName value="Material.001"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="7daedcbf-8739-443a-90a4-0a93d6408aa1"/>
+			<MaterialName value="Material.002"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="f29c0add-b38d-4635-807a-d75fe1e7a90c"/>
+			<MaterialName value="Material.003"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="75dac0c5-0dc4-4dc2-b1bf-96c37c522f5b"/>
+			<MaterialName value="Material.004"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a6aa72fd-c0fb-47da-bc47-3d9d31cb7751"/>
+			<MaterialName value="Material.005"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="7ed50ca6-b573-4c21-a685-c5b767a8cbc8"/>
+			<MaterialName value="Material.006"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="117c883d-e189-4df8-8957-bb292b4fde4c"/>
+			<MaterialName value="Material.007"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="f2d7e405-45b6-4c04-9067-529533d5bd8c"/>
+			<MaterialName value="Material.008"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="0b555628-0484-4946-bc2a-000dcbe8c3bd"/>
+			<MaterialName value="Material.009"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="0373b668-98b0-43c1-9bd1-cf63e3545c49"/>
+			<MaterialName value="Material.010"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="dea3ecda-9b71-49a6-87e0-9d2331db33b5"/>
+			<MaterialName value="Material.011"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="5c5568aa-58bd-48fa-a46e-22ca0c0e865d"/>
+			<MaterialName value="Material.012"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="65fefb7d-2f4d-4516-9b0b-d4179feaaf39"/>
+			<MaterialName value="Material.013"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="5f7efd45-9950-414e-836c-b89746b2a3a3"/>
+			<MaterialName value="Material.014"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ca4f06b6-1b87-454b-8522-c2732dd1d588"/>
+			<MaterialName value="Material.015"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="f752f1d2-3219-44f2-93c8-1c7ed4211f01"/>
+			<MaterialName value="Material.016"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="4e540591-be2f-4948-83f6-8c3732ef6490"/>
+			<MaterialName value="Material.017"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="2e13a532-3230-4f40-bb5c-4f2c43e0d8ad"/>
+			<MaterialName value="Material.018"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b1fa7599-b22d-469f-9511-e5ae9867a565"/>
+			<MaterialName value="Material.019"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="6dce088f-0113-45c3-b74c-b91a9287709a"/>
+			<MaterialName value="Material.020"/>
+		</Item>
+	</MaterialList>
+</importer>
+

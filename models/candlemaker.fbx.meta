@@ -1,0 +1,2280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="104c006e-336c-4016-9119-bf39e9661f73">
+	<meta id="666e429c-8f0e-4080-a4bc-6a37ff1c17e7" type="group" folder="true" name="Materials">
+		<meta id="01b445cf-7c47-480f-9aad-3c73c95b4a1d" name="Material.001"/>
+		<meta id="64895b5d-876f-4c95-90fe-30ffc9793870" name="Material.002"/>
+		<meta id="677cbfbe-3e01-414f-bd4d-2674a02708bd" name="Material.003"/>
+		<meta id="0f6dc794-41f3-4111-9187-6d0b5b28b416" name="Material.004"/>
+		<meta id="9f41c305-0585-4089-99fe-d4d15c23bcd2" name="Material.005"/>
+		<meta id="c0ecef39-1b08-40a3-b175-088d58a909d9" name="Material.006"/>
+		<meta id="6470c280-9844-47b6-a214-36552bbe14d6" name="Material.007"/>
+		<meta id="0f2345ce-556c-4be1-9d56-50ed878c3b53" name="Material.008"/>
+		<meta id="8b0588fa-01ee-4cb4-94d5-a3c8e723cc40" name="Material.010"/>
+		<meta id="94370039-7d82-4c02-984f-423ec4869dc8" name="Material.011"/>
+		<meta id="29a4595e-d724-49e7-b5ba-a6cb39f1dacb" name="Material.012"/>
+		<meta id="b3216092-8594-41f2-a36a-61e63b9123d3" name="Material.013"/>
+		<meta id="ec781ff7-bba1-4259-b61e-d30e56cb95b1" name="Material.014"/>
+		<meta id="e15dadcf-d085-4a28-aa43-f75ce5ba35fb" name="Material.018"/>
+		<meta id="1e99eecc-5b2b-4fbc-874b-c93a511ee3d8" name="Material.026"/>
+		<meta id="8d5f4694-7597-48e0-b6c0-6196c176d261" name="Material.019"/>
+		<meta id="ad009cb1-536a-4d06-9415-059e3a86abe3" name="Material.020"/>
+		<meta id="d2b19daa-d8ad-49ea-966c-2823a5ff4c74" name="Material.021"/>
+		<meta id="300a8a27-cbc3-45bb-b8b9-e39e7368488d" name="Material.022"/>
+		<meta id="091c75a4-76fa-4ee2-84c9-a91411de724c" name="Material.023"/>
+		<meta id="4a5200f3-6317-4cd2-89f6-ed1225280f27" name="Material.024"/>
+		<meta id="c0dc0e22-1a1f-426a-b98a-9baa31993c4d" name="Material.025"/>
+		<meta id="f4c332ac-9576-4bca-a785-bb95f073c42f" name="Material.027"/>
+		<meta id="9425a406-4f12-4946-9013-95174fe993fd" name="Material.028"/>
+		<meta id="69cce2cc-d4d5-4b5e-9b1e-dc73df47b9d7" name="Material.029"/>
+		<meta id="dc6170de-605d-4c4e-923b-26e40d232f8d" name="Material.030"/>
+		<meta id="0d66ea20-b344-4fb5-8afc-9e81b28f2ba3" name="Material.031"/>
+		<meta id="7940d9e6-7d03-4e9a-825f-5e8096a9f67a" name="Material.032"/>
+		<meta id="1948a7b9-7bc6-486d-a70d-c8c88fef7d27" name="Material.033"/>
+		<meta id="eb0d1c1d-921c-4690-81f3-12d7b5e49162" name="Material.034"/>
+		<meta id="0187311b-b39c-4cdc-a7ec-d7721d441125" name="Material.041"/>
+		<meta id="3508a593-f4ec-41c3-bc95-90c28ed0a47c" name="Material.040"/>
+		<meta id="fc6d2fbf-b9c9-4be0-8977-0f1ac26fb623" name="Material.039"/>
+		<meta id="47a9be32-f6c2-48c2-8c64-dd7f90a27338" name="Material.038"/>
+		<meta id="09ff999d-f5f6-4ce8-9204-3de5916ed9dc" name="Material.037"/>
+		<meta id="e5a3c42e-c1b9-4e4e-8d4c-53f82ed60c25" name="Material.036"/>
+		<meta id="3cefa800-e7eb-4713-b60b-627ca19d8f3a" name="Material.035"/>
+		<meta id="0eb3ff70-7bed-4c21-8c0d-00a2ae1264ef" name="Material.048"/>
+		<meta id="3967c45c-22ce-486b-a818-003da10f9d4d" name="Material.047"/>
+		<meta id="35022342-12d6-4ee2-83ef-c2332b04e7f4" name="Material.046"/>
+		<meta id="d9f81bcb-92f5-46f1-bf43-cd395504616c" name="Material.045"/>
+		<meta id="20f9a94b-0a76-4718-9c3c-c41e24d0c766" name="Material.044"/>
+		<meta id="419e6eb9-cfa1-4e25-bf95-14a2e5e4ab8a" name="Material.043"/>
+		<meta id="79024925-a2b2-49c8-9898-8879a4d6f3b7" name="Material.042"/>
+		<meta id="b0e797aa-8efa-404a-8cfc-18f3b5b1b386" name="Material.056"/>
+		<meta id="29c8948c-8759-4187-a446-264855b9c5b5" name="Material.055"/>
+		<meta id="3e71c90a-4d61-41de-9c8e-c2d175206fc1" name="Material.054"/>
+		<meta id="44058531-b3e6-4f37-8ba3-e42ca69de04a" name="Material.053"/>
+		<meta id="5a3cb33b-a4f2-40e7-9280-008cb3cccd35" name="Material.052"/>
+		<meta id="0984f23d-d22f-4288-8555-9edb40d659d0" name="Material.051"/>
+		<meta id="793d237c-0aa5-4523-912e-92f079cfedba" name="Material.050"/>
+		<meta id="b3311066-2123-49bf-a260-980acb90a266" name="Material.049"/>
+		<meta id="2f7d6d4e-2a22-4791-89d8-3af0a1b4d2f3" name="Material.064"/>
+		<meta id="7b4f33d1-bb84-4962-ac6b-62cedf361ff6" name="Material.057"/>
+		<meta id="4cc85764-526e-43f2-9065-6d0b5f69e55a" name="Material.058"/>
+		<meta id="53ab50ec-788a-4fb2-abff-a3eded1abb06" name="Material.059"/>
+		<meta id="fad5c717-6aa9-46a3-9f08-d6540b70f6ad" name="Material.060"/>
+		<meta id="72ea8dc9-9c6f-496d-baa7-67afdb2908f3" name="Material.061"/>
+		<meta id="64f69c67-14de-4563-b7a2-25088d7ca2a2" name="Material.062"/>
+		<meta id="dfc57544-8b15-46b5-b5d8-15ead70adcac" name="Material.063"/>
+		<meta id="d4e57e16-4b32-425a-94d5-919ac30ad5bb" name="Material.065"/>
+		<meta id="78047aee-34e7-488b-8c72-8716b997f593" name="Material.066"/>
+		<meta id="3bb2739a-0cf2-444b-9b6c-3ac7ba7679b4" name="Material.067"/>
+		<meta id="a9ed8590-c0d9-4113-ba4b-bbea30e70b72" name="Material.068"/>
+		<meta id="02a0a0da-289a-494d-8d88-56d0d70703cc" name="Material.069"/>
+		<meta id="c00c0818-12f8-404e-9922-1f9ff6c15f2d" name="Material.104"/>
+		<meta id="86742f6b-1331-4237-90c9-524384fde411" name="Material.103"/>
+		<meta id="87ca3ecf-e306-4304-a123-b8819ad9c80d" name="Material.102"/>
+		<meta id="b04d7ea5-4287-41af-a796-c554290dc940" name="Material.101"/>
+		<meta id="5be7f79b-bec0-4dc2-9b96-e7280e50b1bb" name="Material.100"/>
+		<meta id="a47afefb-13ec-4a09-a49d-922b3ce30020" name="Material.099"/>
+		<meta id="5248d7e4-cddd-4c68-8cb1-f300ee987c45" name="Material.098"/>
+		<meta id="459ff427-f61c-4ee0-b4d3-985c69b09dc4" name="Material.097"/>
+		<meta id="e66fa202-acba-4841-acc5-104884597f22" name="Material.096"/>
+		<meta id="753e4a1e-b168-49bc-92c6-01cb8e686a60" name="Material.095"/>
+		<meta id="ce8cc315-ff14-4434-971d-363026d3ed93" name="Material.094"/>
+		<meta id="6ffaacd3-797c-461d-b304-7e832ab8e009" name="Material.093"/>
+		<meta id="36cd91b0-c0f4-40bf-89ce-b244d5c84172" name="Material.092"/>
+		<meta id="d8ccbe5b-2519-45ca-b546-5619ce47de98" name="Material.117"/>
+		<meta id="fb7f53e6-f979-48c7-9806-abc2868650c1" name="Material.116"/>
+		<meta id="463c9fc5-911a-49c7-a399-03de42c7d65e" name="Material.115"/>
+		<meta id="5e2d9a95-dc67-4d8e-8a61-11d219226fb0" name="Material.114"/>
+		<meta id="32129b7e-e98a-4777-a87a-b27c04489764" name="Material.113"/>
+		<meta id="3ef58d86-bdbc-4ff8-b5f5-45bffb07007b" name="Material.112"/>
+		<meta id="d37f2d78-43f5-4d65-9b0f-f3114da639d3" name="Material.111"/>
+		<meta id="1f8c6bcc-5c0b-467f-bf4b-e073898cbaab" name="Material.110"/>
+		<meta id="4ac8eb49-c559-4bf7-83d8-659ab19acbf8" name="Material.109"/>
+		<meta id="dec29350-53cc-41b8-bddf-e145126fdac6" name="Material.108"/>
+		<meta id="10609ec6-0fa8-48e5-9b8c-af599bca5459" name="Material.107"/>
+		<meta id="1117b786-5a3d-4007-ab71-d91f3fe159ea" name="Material.106"/>
+		<meta id="a9c82c36-2ea6-48a8-acf6-c9327d1383dd" name="Material.105"/>
+		<meta id="9af0142b-cf33-44b9-a793-1a9704b87464" name="Material.130"/>
+		<meta id="894d43ae-06b9-4a66-870c-d2d78da5c8aa" name="Material.129"/>
+		<meta id="65b00184-8b02-404a-b0e8-ca7cbc1edd93" name="Material.128"/>
+		<meta id="7bd31654-9d31-48be-98e0-be4bc346d76c" name="Material.127"/>
+		<meta id="931450a7-f8b3-445b-913d-79e0f2445878" name="Material.126"/>
+		<meta id="59b6b4d1-b803-4d55-b10d-974bf3f7a576" name="Material.125"/>
+		<meta id="6c482f2f-4edb-4b9e-970b-0337fc25f53e" name="Material.124"/>
+		<meta id="f255d689-431b-4009-a574-ad48df837528" name="Material.123"/>
+		<meta id="a0d56c33-12a5-4f5b-8136-af4b2fbfcf09" name="Material.122"/>
+		<meta id="e3fe29fc-9893-42c6-94da-be3296c5fafb" name="Material.121"/>
+		<meta id="abaac234-ad9c-4d14-8126-bb036a7ca9a6" name="Material.120"/>
+		<meta id="7f5b5ea4-8653-465e-8141-aead09d4d6de" name="Material.119"/>
+		<meta id="473b716a-88ad-4bd4-8522-97645f9092c4" name="Material.118"/>
+		<meta id="b6c66d33-a8d5-4e92-9e8f-6b392a6b4fce" name="Material.143"/>
+		<meta id="f17c0963-8319-48d8-8d92-67a491193a27" name="Material.142"/>
+		<meta id="07e00c33-3f96-4b5c-a2b3-0993183b6caa" name="Material.141"/>
+		<meta id="abfe6409-70c5-462d-a6d0-4e8998fcfcac" name="Material.140"/>
+		<meta id="c221d2d6-c123-4f31-9e54-a8e7a4dd749d" name="Material.139"/>
+		<meta id="27a44e9e-f6f0-4b68-a3b6-179275b17380" name="Material.138"/>
+		<meta id="dbaa7c09-56cf-481b-a0c0-d93cb8e179cb" name="Material.137"/>
+		<meta id="d194449e-1a2e-4be3-b21c-965470a5f6b9" name="Material.136"/>
+		<meta id="a8ff6be1-dcf9-4b6f-abc5-ef0d63929b3b" name="Material.135"/>
+		<meta id="3a452dfd-5cfe-4d0f-a69c-317c9972b5a5" name="Material.134"/>
+		<meta id="dc0056ac-3eaa-4c23-88c2-630e9f0fc0d2" name="Material.133"/>
+		<meta id="8d469eec-9cbe-4372-ba31-6b34440f33e3" name="Material.132"/>
+		<meta id="4461d738-a3c3-4336-a082-89e5354e1923" name="Material.131"/>
+		<meta id="083266bf-98e7-4e58-940e-d98e5b97de8b" name="Material.156"/>
+		<meta id="6bcf70a8-a4f8-4c79-89e3-31dad4834b88" name="Material.155"/>
+		<meta id="e0d4f9ec-bd67-4f86-8fa7-9466fc6721bd" name="Material.154"/>
+		<meta id="00bb17ae-27eb-4a62-bbe2-d7da0e76c765" name="Material.153"/>
+		<meta id="874c3297-234f-4e58-ae91-c2bc7f1e61c5" name="Material.152"/>
+		<meta id="4b7ea47c-1ce4-4098-a374-ce06d022a122" name="Material.151"/>
+		<meta id="176914c4-3d92-4465-ba58-50b009974557" name="Material.150"/>
+		<meta id="6b5b4cc8-456a-4a8a-bbb9-88c0cb3cc16f" name="Material.149"/>
+		<meta id="6533e88b-547c-4f44-9080-b25779a612fd" name="Material.148"/>
+		<meta id="c4595e0f-f2bd-4310-a616-36f8bccea719" name="Material.147"/>
+		<meta id="8aed80fc-2196-443f-995d-7e9a8cbe903c" name="Material.146"/>
+		<meta id="a700ae9a-b032-47e7-b85b-21a6128d53e7" name="Material.145"/>
+		<meta id="c15a5c42-0a5b-4a87-b43d-d924f08ffb88" name="Material.144"/>
+		<meta id="84120ac8-e3b5-4e5d-8e79-8632c0db700c" name="Material.169"/>
+		<meta id="05562051-216a-47e2-a99c-93ace448e389" name="Material.168"/>
+		<meta id="00c34a5a-014c-4b26-80ee-dc8da062a5ee" name="Material.167"/>
+		<meta id="d30927c5-912f-4bc5-80f4-08d5c82d1972" name="Material.166"/>
+		<meta id="a205b85b-56c6-4206-865d-955867145479" name="Material.165"/>
+		<meta id="54066a8f-e234-41f9-81a3-a9954c8374b4" name="Material.164"/>
+		<meta id="39ea63d5-4f85-4228-bab5-6962b042414c" name="Material.163"/>
+		<meta id="453dc4b6-365b-4463-afc5-bcafc2ced0c1" name="Material.162"/>
+		<meta id="8efd4f2c-de54-438f-b543-b2bbcd43ddd1" name="Material.161"/>
+		<meta id="f1c8856a-2410-433e-9828-8d1dc0a5162f" name="Material.160"/>
+		<meta id="fd3337f1-c72e-4a50-965c-494db3a658fe" name="Material.159"/>
+		<meta id="0df02adb-3fd8-4cee-aa60-1552fd70a9a8" name="Material.158"/>
+		<meta id="7c6eba18-de72-492e-8009-14cebeee43fb" name="Material.157"/>
+		<meta id="f3ab2f50-352e-4bfd-bd11-2ac1aa7064d3" name="Material.182"/>
+		<meta id="6395442f-afd9-418b-bf5c-fb79724d621a" name="Material.181"/>
+		<meta id="0910b92e-72c4-416a-8629-6a27b49d7e38" name="Material.180"/>
+		<meta id="cb7e6d12-60c4-4c8d-a88d-bb97837940c8" name="Material.179"/>
+		<meta id="74ce99e2-46ae-4d4a-a083-8801165becd1" name="Material.178"/>
+		<meta id="d4d494e3-1a16-4b4c-8108-84e3e80877ea" name="Material.177"/>
+		<meta id="64cb8706-6250-4a65-962c-5dde5230b8a9" name="Material.176"/>
+		<meta id="874b33a4-de8e-4a74-8d82-0b5bffc8c7c1" name="Material.175"/>
+		<meta id="5448173c-2e08-4525-8b27-42f0ae033013" name="Material.174"/>
+		<meta id="9feadcd8-c709-4505-bff1-b2245775e8e4" name="Material.173"/>
+		<meta id="b096d448-71bd-4a57-8fd0-a91983e994c2" name="Material.172"/>
+		<meta id="2671ea82-ccf2-41cb-9252-3666343420ea" name="Material.171"/>
+		<meta id="5f1bdf43-60a0-4258-917b-3ab36571da7f" name="Material.170"/>
+		<meta id="5b4088a0-2d3a-440d-b692-9c15a8236287" name="Material.195"/>
+		<meta id="118e76c5-71ec-437e-acb0-9fa15e95a2f9" name="Material.194"/>
+		<meta id="6e3fcc78-1a1a-4d26-a640-5fa50de1eaeb" name="Material.193"/>
+		<meta id="6ff5a2ba-ffeb-408e-b991-fb655a6efe8d" name="Material.192"/>
+		<meta id="ea4c448b-67a8-4169-a8c2-a8d04de1d10f" name="Material.191"/>
+		<meta id="7ef8a217-199b-43b7-b128-32ba08a86291" name="Material.190"/>
+		<meta id="430b3791-0601-425a-9022-637b1d445b14" name="Material.189"/>
+		<meta id="88db5c00-40f7-4359-b5de-4bcfaabe32de" name="Material.188"/>
+		<meta id="2ece2180-4348-4210-a6a1-af6b47636d7b" name="Material.187"/>
+		<meta id="44929a55-3a9b-4e4f-9632-7a2a4ecbb026" name="Material.186"/>
+		<meta id="b5fde293-3eeb-4b60-b34d-d0e416df1c77" name="Material.185"/>
+		<meta id="37dca0c6-c0ee-4a46-9449-2c52bb879caf" name="Material.184"/>
+		<meta id="f62efefc-bbec-45ec-ace9-c7a2e2bd7063" name="Material.183"/>
+		<meta id="2e02aa2c-af73-41aa-9956-210035cc7e7d" name="Material.208"/>
+		<meta id="505577df-646d-4087-b90b-c1a59fe74505" name="Material.207"/>
+		<meta id="5bad7eb3-c365-42fe-920f-9e3b85422a67" name="Material.206"/>
+		<meta id="d18df9f9-59bb-4c2e-bcdd-7005e2dea605" name="Material.205"/>
+		<meta id="566adae9-2c85-4065-b43b-728643a6c86e" name="Material.204"/>
+		<meta id="a07133ec-c038-4dbc-8c39-e752c0f0d07d" name="Material.203"/>
+		<meta id="d559e569-7bf1-417a-984f-46f05dce1bd9" name="Material.202"/>
+		<meta id="c318ecc8-fa44-46fe-bc5d-c8a536286fdc" name="Material.201"/>
+		<meta id="d495fa34-5404-4716-a1ef-a1365c31ad41" name="Material.200"/>
+		<meta id="1bf52bbb-3db8-48cf-abce-16a22a987c4d" name="Material.199"/>
+		<meta id="9cf8b7e9-22d7-41d2-a110-17b3e4995c7d" name="Material.198"/>
+		<meta id="8789beb8-bba1-4823-8bc4-0a1aed83f313" name="Material.197"/>
+		<meta id="459da0d9-4949-4082-bdae-9762bcf4c5aa" name="Material.196"/>
+		<meta id="49790d16-1de2-4ec0-8915-230f26b4490c" name="Material.071"/>
+		<meta id="df26ee94-ca53-4e06-89dd-2498e351c7b1" name="Material.072"/>
+		<meta id="15a486fc-41c8-4233-a8b7-85d01e1a1341" name="Material.073"/>
+		<meta id="01168627-1e20-4181-835d-35cf41c6c576" name="Material.076"/>
+		<meta id="d677cad3-54f9-4e44-bf67-75605187e712" name="Material.075"/>
+		<meta id="5562edbf-59b0-4dda-bd08-eeae2602e567" name="Material.074"/>
+		<meta id="88e1363c-79a6-4373-9bf3-66586b29120d" name="Material.079"/>
+		<meta id="1aff903b-7b2e-444b-a25a-90840df98051" name="Material.078"/>
+		<meta id="5799c914-6e19-498c-9eff-0eafdb55f51e" name="Material.077"/>
+		<meta id="e058a11b-21ec-48e9-ba08-f950fbc1de0c" name="Material.082"/>
+		<meta id="817c9675-a4bf-416a-a614-dbccbdba352d" name="Material.081"/>
+		<meta id="3fa0a943-9eda-40d2-9ec0-33b5b1f72128" name="Material.080"/>
+		<meta id="e40fac49-f977-43be-8c6f-65bb3f55f39e" name="Material.085"/>
+		<meta id="5ee225cc-af43-4fce-abbb-60536624e7db" name="Material.084"/>
+		<meta id="992ceb38-01c3-406e-82b2-a2dd7f97a976" name="Material.083"/>
+		<meta id="33920dd0-b212-4067-8636-a43bfa77e6e3" name="Material.088"/>
+		<meta id="5355334b-2295-46da-9b4f-8a487860dbc0" name="Material.087"/>
+		<meta id="889ec10e-55a6-439b-8158-0c84c020cb73" name="Material.086"/>
+		<meta id="82b66f3c-454a-4e2f-b367-166bd574a22e" name="Material.091"/>
+		<meta id="3e71831a-039a-467b-bc77-36abded6fc56" name="Material.090"/>
+		<meta id="9a5f88cd-40ad-4ff1-92fb-9ff0adbcbcac" name="Material.089"/>
+		<meta id="d74e9835-d408-4837-895e-575f88a122db" name="Material.211"/>
+		<meta id="1b80a211-528f-4425-8fd3-0ab0110e4d3e" name="Material.210"/>
+		<meta id="61a89e1d-3776-4bbf-bb3c-b1fc51b39506" name="Material.209"/>
+		<meta id="1b3c2db9-b7ff-4616-bc8b-8647cb7c6c9e" name="Material.214"/>
+		<meta id="38daea0c-baa7-4e4c-a4f2-6cd9a416997b" name="Material.213"/>
+		<meta id="8c92d3b4-7ba5-49a0-bda1-f10b112f8a8f" name="Material.212"/>
+		<meta id="b81d4c98-0c34-4322-b74b-fe0cff3c5b92" name="Material.217"/>
+		<meta id="a2152ab7-35d4-40d0-9ae3-1aa5d132bb6a" name="Material.216"/>
+		<meta id="c30eca05-33bf-4718-b4d2-a784dad1dc4a" name="Material.215"/>
+		<meta id="ca7b9357-cc29-4ba0-951f-f607ab856896" name="Material.220"/>
+		<meta id="14525ac7-f9a5-4266-aca1-656399557522" name="Material.219"/>
+		<meta id="d3ce2769-ac5f-4069-967c-ed06d1cbb6c1" name="Material.218"/>
+		<meta id="cecef687-5194-4141-a895-bc98ffa775f3" name="Material.223"/>
+		<meta id="a0dff975-fc08-4fd6-863a-c6f744c41565" name="Material.222"/>
+		<meta id="c27fef3f-222a-4afb-b59c-9d8f7dd2c5e4" name="Material.221"/>
+		<meta id="1bd31917-1fb8-4700-b1bd-ea82d79577f8" name="Material.226"/>
+		<meta id="847b865b-a8fd-4bf0-b4c1-9844b34dc382" name="Material.225"/>
+		<meta id="0f594084-5a99-46ba-ba0c-de2810ff5f93" name="Material.224"/>
+		<meta id="d963bcdb-5b7f-454c-9aaf-58fda70c8e37" name="Material.229"/>
+		<meta id="4bab9d94-70f0-4f42-89d4-55dd763f587f" name="Material.228"/>
+		<meta id="351fbbd8-7bef-4ab9-b766-6d91fd3c71be" name="Material.227"/>
+		<meta id="98e07be1-7201-4c35-96a3-39c32b89c446" name="Material.235"/>
+		<meta id="81f5d8ac-392d-46ea-bf2c-c23b8f38999d" name="Material.234"/>
+		<meta id="a0cfd912-63ae-4f19-8a24-de6bcb81d588" name="Material.233"/>
+		<meta id="be9bd060-784a-43a5-abef-f5057ede98e2" name="Material.232"/>
+		<meta id="7ca803b1-f745-4ec9-abe0-0dab781de476" name="Material.231"/>
+		<meta id="b62031b3-64db-4090-931f-553256051441" name="Material.230"/>
+		<meta id="eb5c289e-62d8-4eb3-ada0-58009e29927c" name="Material.236"/>
+		<meta id="cd8b73f0-1685-4f44-b89a-ac3860243886" name="Material.237"/>
+		<meta id="e3a4e0da-cdba-4f5f-9382-85cc47b4d8aa" name="Material.243"/>
+		<meta id="176a69c7-d27f-4a36-96de-666b41fbc28d" name="Material.242"/>
+		<meta id="88e73e4a-b3c1-4aad-b899-e905d471cbc3" name="Material.241"/>
+		<meta id="3f6f11d5-7470-4f47-bcde-80e9d916e2eb" name="Material.240"/>
+		<meta id="52c5197f-4c1a-43f1-9c2a-753367496ace" name="Material.239"/>
+		<meta id="ead2bdc0-78d6-4c2a-9307-0e1d336c5293" name="Material.238"/>
+		<meta id="95c5ba9b-2dff-4fa8-b2ef-999311a756d3" name="Material.244"/>
+		<meta id="18c7da96-9df4-4a58-8ee2-9fd7d10f4376" name="Material.245"/>
+		<meta id="a6876ebf-5e0b-46f3-97b7-130cdac697d9" name="Material.246"/>
+		<meta id="eb3607b0-c717-43ed-888e-a0ee4bdecd82" name="Material.247"/>
+		<meta id="0daa51f6-7d69-4e25-87f3-ffbe2443d00a" name="Material.249"/>
+		<meta id="251677da-e58f-461b-9c66-bed8e2275f3d" name="Material.248"/>
+		<meta id="51969d91-75d7-4f56-97ba-9bae41ab4f9b" name="Material.250"/>
+	</meta>
+	<meta id="49aa1cac-4d92-4072-b2bd-24ca90cffe51" type="group" folder="true" name="Meshes">
+		<meta id="e74546cd-eb7a-4c71-b88d-4b0a81c02c50" name="base_Material.001"/>
+		<meta id="17442960-ef9b-4b32-9663-f31687f80cc7" name="building_Material.002"/>
+		<meta id="e85d33be-e058-4650-8c39-5a11130c3025" name="pillar01_Material.003"/>
+		<meta id="36af0d9b-0cd2-412c-99cb-160b3df25ff1" name="pillar02_Material.004"/>
+		<meta id="2a0d9166-e550-46f3-87fd-321a57b2c857" name="pillar03_Material.005"/>
+		<meta id="e493ab84-b253-4712-a092-63873b85da61" name="pillar04_Material.006"/>
+		<meta id="28e1153a-5e9a-4ba8-ae04-548911f985ce" name="doorframe01_Material.007"/>
+		<meta id="860ef665-b2e9-497e-a9fa-56031a2c8095" name="door_Material.010"/>
+		<meta id="854e9382-409a-4341-ad26-1921f6927441" name="doorframe03_Material.011"/>
+		<meta id="a7fd062b-0b32-4a43-86c7-9b73fd32c55d" name="roofframe01_Material.012"/>
+		<meta id="f0f1f6b1-bcd5-48bb-a503-8c68084755f3" name="upstairs_Material.014"/>
+		<meta id="281a39ba-29fa-4277-864b-49efc99eab74" name="roof_Material.018"/>
+		<meta id="de6dbbfe-c682-4cde-b9ee-1ac5cc4543e1" name="window01_Material.026"/>
+		<meta id="1fa5fa22-9cf2-41d4-934a-9691686d9a9f" name="window01_Material.019"/>
+		<meta id="94df717a-802d-4c83-b21c-bbaddefef5c4" name="window01_Material.020"/>
+		<meta id="f7375cc8-028f-4174-80ef-9218e2d81bc2" name="window01_Material.021"/>
+		<meta id="eb2bf40a-607b-4a39-ab3d-5c48b1a04695" name="window01_Material.022"/>
+		<meta id="096e813c-2600-43ac-bfac-d401043ad187" name="window01_Material.023"/>
+		<meta id="0bb39886-428f-4f41-b161-3d2278856958" name="window01_Material.024"/>
+		<meta id="6158e251-3450-4b8f-87b0-0332bdb076ac" name="window01_Material.025"/>
+		<meta id="a41e218b-7ae6-4533-9364-0167eec8bfb1" name="window02_Material.027"/>
+		<meta id="f9930f43-964e-4143-abf6-6cbd2692bb0b" name="window02_Material.028"/>
+		<meta id="a2690fb0-4203-4c9f-a7e7-05f814e00b3d" name="window02_Material.029"/>
+		<meta id="d96b8c35-3e92-4e56-ac6b-9d6e502adb30" name="window02_Material.030"/>
+		<meta id="4a327b49-29f6-47f8-aecf-d1cded8f8a34" name="window02_Material.031"/>
+		<meta id="245def76-6927-45a5-b3e9-08f1e3e18441" name="window02_Material.032"/>
+		<meta id="7871d2ca-0cf7-4d71-ba0e-85a8cdb8ec82" name="window02_Material.033"/>
+		<meta id="870c0417-1c37-4f2f-8ffd-634eac7cba0f" name="rack_Material.064"/>
+		<meta id="6446cdc0-55da-43ee-a37b-31c614aabdaf" name="rack_Material.057"/>
+		<meta id="59c1bf3e-22c0-42a8-a23b-c867a4830c9f" name="rack_Material.058"/>
+		<meta id="f2019c86-dbd8-4d99-a959-70afbe0313ff" name="rack_Material.059"/>
+		<meta id="6ec23774-14ba-4f0c-97fd-2b34a818be96" name="rack_Material.060"/>
+		<meta id="d81dc952-22de-4b41-a24b-4f58bb645e5c" name="rack_Material.061"/>
+		<meta id="091cace0-2e08-4336-b5f3-e69a4767839b" name="rack_Material.062"/>
+		<meta id="8903ab89-4744-4fd9-8fc1-cdb4df5e7d79" name="rack_Material.063"/>
+		<meta id="442586c9-35b4-4dc3-b8bf-f21afc162e53" name="rack_Material.065"/>
+		<meta id="378ac0d3-98f1-4c2a-9832-4a25596a4ed7" name="rack_Material.066"/>
+		<meta id="3793663b-3071-4ace-a753-12554f880e67" name="rack_Material.067"/>
+		<meta id="47a59efe-506b-4980-8139-e8d38b8372dc" name="rack_Material.068"/>
+		<meta id="b78b73a4-ef7c-4931-9878-dd2a24f55277" name="rack_Material.069"/>
+		<meta id="5d54d918-aabd-48e1-9990-b425059a2e91" name="rack_Material.097"/>
+		<meta id="3696e3fe-5b11-48ad-a955-53987ea39a6b" name="rack_Material.111"/>
+		<meta id="6a6a6375-4dad-4548-b2c8-6006f5228d21" name="rack_Material.124"/>
+		<meta id="ff3eb031-0d7b-4e7e-b16b-9df28432bcc7" name="rack_Material.136"/>
+		<meta id="a6b02823-4505-4e31-a3f8-2ea5dc9f7266" name="rack_Material.149"/>
+		<meta id="b39cfb2b-e877-4dd2-91da-58b5e5029d68" name="rack_Material.162"/>
+		<meta id="2f797dbb-cb8d-490b-89d2-e2f93fe4462f" name="rack_Material.175"/>
+		<meta id="27aa0e81-8b69-4922-bbef-524b26f590f2" name="rack_Material.188"/>
+		<meta id="a037b055-e86f-41b6-8c9f-d803a003cc77" name="rack_Material.201"/>
+		<meta id="bcc01fac-493c-4132-9dc7-6e88c93effde" name="rack_Material.071"/>
+		<meta id="95ef6034-e3d8-4730-a8c2-cb80d6fd229c" name="rack_Material.072"/>
+		<meta id="acc2ebd6-fc2f-40e1-95a3-23f8ccda1bd7" name="rack_Material.073"/>
+		<meta id="033546b1-4ea9-4183-84e9-0acc930ed8eb" name="rack_Material.076"/>
+		<meta id="9391ea23-a076-480a-a054-262e6d9b1435" name="rack_Material.075"/>
+		<meta id="85dcc706-8304-44c0-8f9c-1bf0a3a13d0b" name="rack_Material.074"/>
+		<meta id="b2e80283-b966-4cde-857f-2f9bab313467" name="rack_Material.079"/>
+		<meta id="e68fa35d-f27d-4a1e-8eba-a002207dd944" name="rack_Material.078"/>
+		<meta id="2473ae3f-5084-4f28-a467-46a33615cd4d" name="rack_Material.077"/>
+		<meta id="0165cbf7-b691-4608-9665-a221d0607ccf" name="rack_Material.082"/>
+		<meta id="1bdf67ac-6f19-4170-95d3-740f4b28ec40" name="rack_Material.081"/>
+		<meta id="ea2c9f55-0f1f-4277-9eda-e8704d3989bd" name="rack_Material.080"/>
+		<meta id="88458332-1981-4d8e-92f1-1834851058c5" name="rack_Material.085"/>
+		<meta id="2031a56a-e436-43a2-be6e-32e59e40e1e5" name="rack_Material.084"/>
+		<meta id="f91d3ea5-0f39-4e61-a033-2b25fe6e2ed3" name="rack_Material.083"/>
+		<meta id="9824d1ca-f144-4d2d-8d3e-a774a849517c" name="rack_Material.088"/>
+		<meta id="7739a984-da55-4917-bb98-67a749e44c6d" name="rack_Material.087"/>
+		<meta id="f3843ddf-dee5-4986-a4c2-67bc10daee24" name="rack_Material.086"/>
+		<meta id="6156b426-0fc9-41b1-b2b0-f418d84c4276" name="rack_Material.091"/>
+		<meta id="ad3e1957-3857-47a9-b88d-81f8b387a6f2" name="rack_Material.090"/>
+		<meta id="8d377829-1525-44bc-adc8-a8bd175789d0" name="rack_Material.089"/>
+		<meta id="3224447d-790f-4a29-a74d-f1bf58dc6f18" name="rack_Material.211"/>
+		<meta id="ade9908b-2302-47ad-b1a9-ead34a229393" name="rack_Material.210"/>
+		<meta id="91200f12-c849-41fb-9e33-fe6f3a2f8db9" name="rack_Material.209"/>
+		<meta id="6ed6ca6b-0587-4a1e-b075-2ba3ae7c75d9" name="rack_Material.214"/>
+		<meta id="751ab8be-8225-4895-802a-dfff91abb5c8" name="rack_Material.213"/>
+		<meta id="102b41c5-ba6d-4223-a301-e67bbd962f48" name="rack_Material.212"/>
+		<meta id="ab3d11aa-4eb4-4a4e-b3e9-ec1e04e5b9fc" name="rack_Material.217"/>
+		<meta id="08078d5f-2a1a-48f1-9454-c99904154f6f" name="rack_Material.216"/>
+		<meta id="7636e9ec-944f-4a4e-a044-f979b9cb4e7b" name="rack_Material.215"/>
+		<meta id="28152592-2678-4138-9c1e-db57f11d1178" name="rack_Material.220"/>
+		<meta id="297797be-5614-42c3-8dfc-3062033d55f3" name="rack_Material.219"/>
+		<meta id="f8c3bd5c-cc67-448d-9de0-d4fb3012c55f" name="rack_Material.218"/>
+		<meta id="517b8376-0373-4d94-8a3c-12de1b8738c6" name="rack_Material.223"/>
+		<meta id="7c54b1f5-420f-46bb-adaf-8ed4fd9db663" name="rack_Material.222"/>
+		<meta id="24cc798f-02e9-48a5-a39c-cab204af1646" name="rack_Material.221"/>
+		<meta id="5384ba4f-ef15-4258-835e-d61d1b0a60e3" name="rack_Material.226"/>
+		<meta id="ae8b67a3-4632-452c-b7a9-3ff8c0aaa4ac" name="rack_Material.225"/>
+		<meta id="37eb8941-7f9c-487d-a926-07caaa9ca3bc" name="rack_Material.224"/>
+		<meta id="f77fb22a-be95-417f-9eed-a8f4b3ce86eb" name="rack_Material.229"/>
+		<meta id="0d8c5439-1cef-4f55-b6fe-2b5f02c4f43a" name="rack_Material.228"/>
+		<meta id="7c1d19c0-f692-4bd8-9cfe-ce60e51f400b" name="rack_Material.227"/>
+		<meta id="ac2048ec-d8ef-45a7-a75e-a31538b8e287" name="barrels_Material.235"/>
+		<meta id="eb0645db-b610-4b8b-8a75-b8d336ea0eb0" name="barrels_Material.234"/>
+		<meta id="310decc8-9e26-4203-bf42-d449787f15dd" name="barrels_Material.233"/>
+		<meta id="f61c6ad5-93c6-4045-9fd8-de3769f8e755" name="barrels_Material.232"/>
+		<meta id="4efd258a-ba84-497d-84d8-89a3962b98d3" name="barrels_Material.231"/>
+		<meta id="93ea5b2e-53a9-45b2-aa54-b914415ad348" name="barrels_Material.230"/>
+		<meta id="90563682-3bde-42dd-8f54-bbcb7a2efc92" name="Chimney_Material.236"/>
+		<meta id="c7c1eb9b-9443-4089-bf8c-c027588b71b1" name="Chimney_Material.237"/>
+		<meta id="407a529a-1960-4401-bb3b-6e7b3436709a" name="step_0_d_Material.243"/>
+		<meta id="542c0646-bbdd-4801-9379-087fbef27dc2" name="step_0_a_Material.242"/>
+		<meta id="a3a60ca0-3eb5-463a-83c9-947ef5280e88" name="step_0_b_Material.241"/>
+		<meta id="9f21ffa0-ade2-4e1d-9054-8cf7f1a9accc" name="step_0_c_Material.240"/>
+		<meta id="5ac372eb-974d-4dcc-8e83-d72fa31b242e" name="step_2_a_Material.246"/>
+		<meta id="16c167e5-fc27-453d-abb3-8659f8765870" name="step_2_b_Material.247"/>
+	</meta>
+	<meta id="59d89688-6894-4e43-865e-4d64e4861d86" name="Prefab">
+		<meta id="8c4c2e55-6411-482f-9b0c-3b0247194a93" name="buildingPart">
+			<meta id="855dde14-bd3d-457e-b774-84f33a348f94" name="base"/>
+			<meta id="f2c14858-99e7-40a0-aa82-3804ccaa08c4" name="building"/>
+			<meta id="876bb498-fcac-4eea-80b5-f34f73255b92" name="pillar01"/>
+			<meta id="fb32232a-e0dc-4dd7-a4c1-ca540fe0f4d8" name="pillar02"/>
+			<meta id="357642f5-3028-41fd-8489-63cdf6dbe067" name="pillar03"/>
+			<meta id="c91b9cff-eb3b-4aa6-87c8-a57a40ed5b61" name="pillar04"/>
+			<meta id="0914eba5-6fa6-4b20-8c47-e8c338e61cc5" name="doorframe01"/>
+			<meta id="a5ce6dac-a99f-4fed-a0cb-93b5e5a170e9" name="doorframe02"/>
+			<meta id="ec9e7a82-5292-4fed-917a-b461d546fdbf" name="door"/>
+			<meta id="6787939b-2681-40a5-ab78-cce5082810f6" name="doorframe03"/>
+			<meta id="de9d6b65-3742-44b8-a16b-98f18501e3b8" name="roofframe01"/>
+			<meta id="2904df71-006c-40c5-98d6-ece3e47de10d" name="roofframe02"/>
+			<meta id="8cb3906e-e3a4-408a-a91b-c90c66e4b606" name="upstairs"/>
+			<meta id="1f716e00-cca9-4699-a1eb-ac60507692af" name="roof"/>
+			<meta id="ff374ef0-109a-4956-8f42-16314a71240b" name="PATH_A_01"/>
+			<meta id="2c6c5344-d164-499f-93ad-44b8c1d0708a" name="PATH_A_02"/>
+			<meta id="a2415ddb-b146-4aab-9a18-cf93576e7ca8" name="window01">
+				<meta id="528c6cfb-97b6-4e0a-915e-1e7ddff59342" name="window01_0"/>
+				<meta id="1c897758-1c77-49a7-9620-767b8cdbc1ca" name="window01_1"/>
+				<meta id="5cdcbcf4-3978-4151-bff8-2954b2a5372a" name="window01_2"/>
+				<meta id="4725aa5c-8a35-4624-a84c-36cba527094b" name="window01_3"/>
+				<meta id="b92b3418-7b8c-453e-bb5a-e5b0b3684f0d" name="window01_4"/>
+				<meta id="c005a39f-7b50-4e13-bf28-b9abd4163a5b" name="window01_5"/>
+				<meta id="b4411e5d-29a8-428b-90ed-016c4e5a3b22" name="window01_6"/>
+				<meta id="39a39035-297c-4200-a2c6-f338131fb338" name="window01_7"/>
+			</meta>
+			<meta id="587baaaf-467d-4e4d-8892-bbbbc6ec922e" name="window02">
+				<meta id="5b8b6fb1-6054-4b8a-be3c-915f583a6488" name="window02_0"/>
+				<meta id="942e99ae-96fb-4153-a8bf-ec332155daeb" name="window02_1"/>
+				<meta id="2638381b-a989-461b-9aca-377527ae36fe" name="window02_2"/>
+				<meta id="7c8d78ad-d013-432b-8389-26982053a7ab" name="window02_3"/>
+				<meta id="8dcb9f6a-851f-4d66-939c-823dad3a9185" name="window02_4"/>
+				<meta id="70e0f9bd-aad4-4f89-a8c4-0013751fc2d9" name="window02_5"/>
+				<meta id="7e4a32fb-bfc8-49ec-8933-71f9892ea709" name="window02_6"/>
+			</meta>
+			<meta id="5750612f-460b-4161-a148-94bc4dbf5b29" name="window03">
+				<meta id="48fc743c-ae2d-4fdb-8411-ec06bfd4befb" name="window03_0"/>
+				<meta id="b29a8a09-b116-4fba-b95f-0afbeb60e8fc" name="window03_1"/>
+				<meta id="482cc5e4-44e5-4d85-a530-7493a70ce0e7" name="window03_2"/>
+				<meta id="2d32e415-0d22-467f-9aaf-08833be2741a" name="window03_3"/>
+				<meta id="3b52ebb5-cd5e-4a31-9520-7aff674ad701" name="window03_4"/>
+				<meta id="35abc448-fc4e-4113-9cd9-76cd8fc55e23" name="window03_5"/>
+				<meta id="1ccf5e51-3606-4245-8007-1a9db1c9ee28" name="window03_6"/>
+				<meta id="1dbec12d-1fd4-483d-94b0-d845976ae909" name="window03_7"/>
+			</meta>
+			<meta id="8f454a29-4b38-48fc-ba5b-bf91a3bd7bfa" name="window04">
+				<meta id="8a592583-6745-46f9-a093-0bbb7d899354" name="window04_0"/>
+				<meta id="a6a8e4d2-5311-49ce-a3d4-18bfa59e9e6e" name="window04_1"/>
+				<meta id="dc69b15f-680d-487d-8f53-dc20ac4fd44b" name="window04_2"/>
+				<meta id="675d4325-f948-42b5-9bd7-d31861b29d43" name="window04_3"/>
+				<meta id="dec93f84-6715-4d4a-814c-12c5fbff8427" name="window04_4"/>
+				<meta id="5ed724d7-5b69-43c9-a4ba-5da6ca431427" name="window04_5"/>
+				<meta id="c8adc50e-fd9b-4186-8aad-b9889ebf1524" name="window04_6"/>
+			</meta>
+			<meta id="0c980b89-a0d6-41af-9d3b-5f6571248c2b" name="window05">
+				<meta id="e1bb32cd-9643-40aa-85bb-544f294ee92d" name="window05_0"/>
+				<meta id="245f7869-5db0-47f7-935b-f1f97dabd4b1" name="window05_1"/>
+				<meta id="2db87397-d54c-4bb2-a4cb-5653fec77c08" name="window05_2"/>
+				<meta id="382ce57a-fc0d-4b75-a591-9146a7a010c4" name="window05_3"/>
+				<meta id="6c74dfd3-4645-4bb4-ad67-59255ae6a6f7" name="window05_4"/>
+				<meta id="9d056be5-8083-486a-b7a2-5b4b65f51dca" name="window05_5"/>
+				<meta id="d9230166-d5fd-4a2b-bf8f-ea08dfeb3278" name="window05_6"/>
+				<meta id="76cbd413-8902-4752-be49-db86d97fd477" name="window05_7"/>
+			</meta>
+			<meta id="116c123c-4cf8-4ecf-b8cf-ce9a1d4bd157" name="rack">
+				<meta id="12c0e40a-ee44-4b75-9949-691afdca83d2" name="rack_0"/>
+				<meta id="71c3598a-a361-46b1-97c8-7911643a6b03" name="rack_1"/>
+				<meta id="67b733bf-17f2-49fa-8cda-75ac637974c7" name="rack_2"/>
+				<meta id="16081521-b4a5-4072-816f-3c1d12867365" name="rack_3"/>
+				<meta id="70793654-e001-4e3c-969b-51e308d347b1" name="rack_4"/>
+				<meta id="14d09b08-a5f9-4ad0-ab74-c69e0dbd4c44" name="rack_5"/>
+				<meta id="ebb94d63-4e18-4c3c-a919-51a0d9d92e75" name="rack_6"/>
+				<meta id="7ac5e83e-e060-462d-8d6e-201414e63fa5" name="rack_7"/>
+				<meta id="4f5a2e5c-a52d-46f1-b28e-df0132ff9415" name="rack_8"/>
+				<meta id="0a60d04f-11c2-4f02-b702-f155daed0d47" name="rack_9"/>
+				<meta id="fec7d69e-5919-4bbc-8972-400902d2f9cd" name="rack_10"/>
+				<meta id="d65f3d68-ec2f-4047-9312-c95a35ad666a" name="rack_11"/>
+				<meta id="ad657380-3b28-420f-b592-4bfc4821fa59" name="rack_12"/>
+				<meta id="88b156d3-70d8-4179-912e-f8e9d1e979ae" name="rack_13"/>
+				<meta id="a234e30a-cf80-414b-9204-86b3caefb780" name="rack_14"/>
+				<meta id="00c8946a-d085-48b5-b38d-d0d7636bea29" name="rack_15"/>
+				<meta id="0de27d07-6f07-4720-bc0c-af6664a2897b" name="rack_16"/>
+				<meta id="05854b74-abcc-45fa-bc80-9ba626f4a40d" name="rack_17"/>
+				<meta id="55fbd320-0541-4d0b-91ca-2f7dd0db6f27" name="rack_18"/>
+				<meta id="57930756-8a2b-44f6-9440-ea5c79c6ef1f" name="rack_19"/>
+				<meta id="f3d968c8-9e17-4131-ac3d-bf41455ab6a0" name="rack_20"/>
+				<meta id="384e8b45-3ced-4dca-a64a-3d2c8e5eb452" name="rack_21"/>
+				<meta id="035ed81c-1085-4188-992f-a285676e5a05" name="rack_22"/>
+				<meta id="27d1647b-76c2-484a-bdb0-f2a3fc8754d5" name="rack_23"/>
+				<meta id="5a2a8efb-be9d-4e8d-86b8-0fbb2f5c93b1" name="rack_24"/>
+				<meta id="bcb356b6-e463-4f71-9d3c-ecdefd5d8767" name="rack_25"/>
+				<meta id="dfccf431-8e74-4056-8fa0-26968aa6420b" name="rack_26"/>
+				<meta id="bbc99ace-ca1b-47dc-b5a7-fad977f597da" name="rack_27"/>
+				<meta id="53714bde-f49f-48aa-aaa7-7a4d40cb1eb8" name="rack_28"/>
+				<meta id="afd1f973-80f5-4bb3-9fa9-447a142b5442" name="rack_29"/>
+				<meta id="ac1da2fb-344b-4f35-9795-0062a6f48e96" name="rack_30"/>
+				<meta id="2e79c8e2-4114-4ea3-9a56-073316873e09" name="rack_31"/>
+				<meta id="0e21d41f-364e-4e93-93d1-f9897f97e549" name="rack_32"/>
+				<meta id="15af15a8-18e7-4499-8f8e-e6f65adaa05d" name="rack_33"/>
+				<meta id="eafe457d-e8b9-4db1-9744-4072e78c7991" name="rack_34"/>
+				<meta id="a4c155d7-f441-4dd2-a4b7-209be01f7fbe" name="rack_35"/>
+				<meta id="97574a40-1724-4372-8cf7-54fb6e3b2854" name="rack_36"/>
+				<meta id="6954c0a9-1fc7-4746-9810-c9f798d3872a" name="rack_37"/>
+				<meta id="b36f48f3-e89c-46ba-8096-599caffff454" name="rack_38"/>
+				<meta id="a61c5c51-bdaa-4640-b9e4-adfc0d1c3238" name="rack_39"/>
+				<meta id="97333fa9-a71d-4d6f-8be1-7b7f96c88132" name="rack_40"/>
+				<meta id="a0908378-734e-4132-a894-63c917ad69ca" name="rack_41"/>
+				<meta id="6e390467-df2e-4d8a-922b-7ed58ae69f44" name="rack_42"/>
+				<meta id="274c5c5d-be2f-46bb-b833-2266945dd762" name="rack_43"/>
+				<meta id="ec679e14-f9a9-4e25-9204-caa8992526ab" name="rack_44"/>
+				<meta id="69a41f2c-55db-46b2-8dea-274c0a6e76ea" name="rack_45"/>
+				<meta id="858cb371-7510-4a03-8303-ea1d313118ef" name="rack_46"/>
+				<meta id="caf61e1a-6f80-4e33-8b7c-7b68fcbd666a" name="rack_47"/>
+				<meta id="74957c28-8f08-4974-8d52-995d977c8bc4" name="rack_48"/>
+				<meta id="0d42f53d-7e19-4c99-a1f4-de12a3b43f42" name="rack_49"/>
+				<meta id="8fa6acf8-2c95-4d46-8978-23b04e200a48" name="rack_50"/>
+				<meta id="2fad14ba-cfe5-4c4a-9ebe-1cfd838a2aa2" name="rack_51"/>
+				<meta id="2321ac27-83f3-46e1-86c8-be4e7f409daf" name="rack_52"/>
+				<meta id="a375709f-d17e-495a-ba68-18a7a7b842ee" name="rack_53"/>
+				<meta id="d0bc60de-96ff-4edc-a4f7-eae5064e6f54" name="rack_54"/>
+				<meta id="4419f4a0-ebd8-476d-a953-43c3e91c6b84" name="rack_55"/>
+				<meta id="7fa2e1db-1d6f-4226-bbdc-ffbd920e3285" name="rack_56"/>
+				<meta id="7c4cac3d-ce0d-42e9-b32d-a97cacb48b7d" name="rack_57"/>
+				<meta id="04bc2492-5528-4b8f-8039-b52b443a5c4b" name="rack_58"/>
+				<meta id="b0531eb4-aeb7-4eda-997e-3ef98822ffdc" name="rack_59"/>
+				<meta id="79ae6638-6b50-4398-a5c0-d481cbdffd94" name="rack_60"/>
+				<meta id="02e2367d-7347-4336-bed1-0a3fee606e93" name="rack_61"/>
+				<meta id="158ee608-6a8b-456b-8718-8034c8fd754b" name="rack_62"/>
+				<meta id="2ffe3615-dcee-4ba2-945c-63e630574203" name="rack_63"/>
+			</meta>
+			<meta id="4a2e5b8f-4fdb-4a7a-93cf-6ae8e07fe816" name="barrels">
+				<meta id="cae1051e-c526-44ab-80fa-2dc3d4dd7efa" name="barrels_0"/>
+				<meta id="2b2d39d3-e5b5-448b-a170-4d784513a192" name="barrels_1"/>
+				<meta id="c8cd9635-4c2b-4c19-8e2e-39a048b2079c" name="barrels_2"/>
+				<meta id="2b8cb102-8fd9-4e41-8640-43aed3ce9318" name="barrels_3"/>
+				<meta id="2e186a20-f5ee-4bc5-94c0-250b61575db6" name="barrels_4"/>
+				<meta id="dadbebff-1188-4f3b-afd1-245267a516f1" name="barrels_5"/>
+			</meta>
+			<meta id="4a0d27d1-0944-4460-869e-ae3d15d2c595" name="Chimney">
+				<meta id="89ec2254-71fd-44e4-b449-95bbe09f1888" name="Chimney_0"/>
+				<meta id="605572ac-c0bd-49c7-a839-9f3c0d871366" name="Chimney_1"/>
+			</meta>
+			<meta id="e4b8cc6f-eaea-4f8a-9d2b-eb003f7f9580" name="SmokeEmitter"/>
+		</meta>
+		<meta id="1d7bd713-2387-43c3-b2c8-350b453ee4c1" name="Construction_Steps">
+			<meta id="94ea3b10-82e9-41b1-b4bd-f94155556296" name="step_0_d"/>
+			<meta id="d9eb0b96-ccac-4145-a11c-810059e19af9" name="step_0_a"/>
+			<meta id="a4f00fde-fe3f-400b-9a34-995a424f0d24" name="step_0_b"/>
+			<meta id="0f74ece5-cd58-4c71-beda-720d027ea813" name="step_0_c"/>
+			<meta id="3de7b1b7-1cad-4f31-a84b-a043d078f7b6" name="step_1_b"/>
+			<meta id="29dbcde2-e50b-4d44-b3ca-ae84f6cb6a2b" name="step_1_a"/>
+			<meta id="b7af011b-7a29-46a8-82fb-02d8665a6dc9" name="step_1_c"/>
+			<meta id="7da396b4-c244-4699-9305-074fa6b7449b" name="step_1_d"/>
+			<meta id="929b2c1e-0945-4796-934c-c224f0cfcf63" name="step_2_a"/>
+			<meta id="24e310f1-7961-4ff3-afa3-6f2b6a32f0d0" name="step_2_b"/>
+			<meta id="26fa6da8-54f5-4e71-a12f-0901e68af2dd" name="step_2_c"/>
+			<meta id="5bc5fd6e-969d-498c-ae95-800c8b9dd148" name="step_2_d"/>
+			<meta id="67c7d31a-0bc5-4701-8284-3e85a195e7b6" name="step_3_a"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="8e9dfccde667d174331698076def6dff"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ForceNormalUp value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="base"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="building"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="pillar01"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="pillar02"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="pillar03"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="pillar04"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="doorframe01"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="doorframe02"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="door"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="doorframe03"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="roofframe01"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="roofframe02"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="upstairs"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="roof"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_01"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_02"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window01_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window01_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window01_2"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window01_3"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window01_4"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window01_5"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window01_6"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window01_7"/>
+							</Item>
+						</ChildList>
+						<NodeName value="window01"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window02_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window02_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window02_2"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window02_3"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window02_4"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window02_5"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window02_6"/>
+							</Item>
+						</ChildList>
+						<NodeName value="window02"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window03_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window03_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window03_2"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window03_3"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window03_4"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window03_5"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window03_6"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window03_7"/>
+							</Item>
+						</ChildList>
+						<NodeName value="window03"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window04_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window04_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window04_2"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window04_3"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window04_4"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window04_5"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window04_6"/>
+							</Item>
+						</ChildList>
+						<NodeName value="window04"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window05_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window05_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window05_2"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window05_3"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window05_4"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window05_5"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window05_6"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window05_7"/>
+							</Item>
+						</ChildList>
+						<NodeName value="window05"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_2"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_3"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_4"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_5"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_6"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_7"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_8"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_9"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_10"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_11"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_12"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_13"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_14"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_15"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_16"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_17"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_18"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_19"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_20"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_21"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_22"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_23"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_24"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_25"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_26"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_27"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_28"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_29"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_30"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_31"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_32"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_33"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_34"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_35"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_36"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_37"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_38"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_39"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_40"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_41"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_42"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_43"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_44"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_45"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_46"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_47"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_48"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_49"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_50"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_51"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_52"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_53"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_54"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_55"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_56"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_57"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_58"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_59"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_60"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_61"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_62"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rack_63"/>
+							</Item>
+						</ChildList>
+						<NodeName value="rack"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrels_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrels_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrels_2"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrels_3"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrels_4"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrels_5"/>
+							</Item>
+						</ChildList>
+						<NodeName value="barrels"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Chimney_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Chimney_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Chimney"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SmokeEmitter"/>
+					</Item>
+				</ChildList>
+				<NodeName value="buildingPart"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="step_0_d"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="step_0_a"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="step_0_b"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="step_0_c"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="step_1_b"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="step_1_a"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="step_1_c"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="step_1_d"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="step_2_a"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="step_2_b"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="step_2_c"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="step_2_d"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="step_3_a"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Construction_Steps"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="01b445cf-7c47-480f-9aad-3c73c95b4a1d"/>
+			<MaterialName value="Material.001"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="64895b5d-876f-4c95-90fe-30ffc9793870"/>
+			<MaterialName value="Material.002"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="677cbfbe-3e01-414f-bd4d-2674a02708bd"/>
+			<MaterialName value="Material.003"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="0f6dc794-41f3-4111-9187-6d0b5b28b416"/>
+			<MaterialName value="Material.004"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="9f41c305-0585-4089-99fe-d4d15c23bcd2"/>
+			<MaterialName value="Material.005"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="c0ecef39-1b08-40a3-b175-088d58a909d9"/>
+			<MaterialName value="Material.006"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="6470c280-9844-47b6-a214-36552bbe14d6"/>
+			<MaterialName value="Material.007"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="0f2345ce-556c-4be1-9d56-50ed878c3b53"/>
+			<MaterialName value="Material.008"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="8b0588fa-01ee-4cb4-94d5-a3c8e723cc40"/>
+			<MaterialName value="Material.010"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="94370039-7d82-4c02-984f-423ec4869dc8"/>
+			<MaterialName value="Material.011"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="29a4595e-d724-49e7-b5ba-a6cb39f1dacb"/>
+			<MaterialName value="Material.012"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b3216092-8594-41f2-a36a-61e63b9123d3"/>
+			<MaterialName value="Material.013"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ec781ff7-bba1-4259-b61e-d30e56cb95b1"/>
+			<MaterialName value="Material.014"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e15dadcf-d085-4a28-aa43-f75ce5ba35fb"/>
+			<MaterialName value="Material.018"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="8d5f4694-7597-48e0-b6c0-6196c176d261"/>
+			<MaterialName value="Material.019"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ad009cb1-536a-4d06-9415-059e3a86abe3"/>
+			<MaterialName value="Material.020"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="d2b19daa-d8ad-49ea-966c-2823a5ff4c74"/>
+			<MaterialName value="Material.021"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="300a8a27-cbc3-45bb-b8b9-e39e7368488d"/>
+			<MaterialName value="Material.022"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="091c75a4-76fa-4ee2-84c9-a91411de724c"/>
+			<MaterialName value="Material.023"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="4a5200f3-6317-4cd2-89f6-ed1225280f27"/>
+			<MaterialName value="Material.024"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="c0dc0e22-1a1f-426a-b98a-9baa31993c4d"/>
+			<MaterialName value="Material.025"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="1e99eecc-5b2b-4fbc-874b-c93a511ee3d8"/>
+			<MaterialName value="Material.026"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="f4c332ac-9576-4bca-a785-bb95f073c42f"/>
+			<MaterialName value="Material.027"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="9425a406-4f12-4946-9013-95174fe993fd"/>
+			<MaterialName value="Material.028"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="69cce2cc-d4d5-4b5e-9b1e-dc73df47b9d7"/>
+			<MaterialName value="Material.029"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="dc6170de-605d-4c4e-923b-26e40d232f8d"/>
+			<MaterialName value="Material.030"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="0d66ea20-b344-4fb5-8afc-9e81b28f2ba3"/>
+			<MaterialName value="Material.031"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="7940d9e6-7d03-4e9a-825f-5e8096a9f67a"/>
+			<MaterialName value="Material.032"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="1948a7b9-7bc6-486d-a70d-c8c88fef7d27"/>
+			<MaterialName value="Material.033"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="eb0d1c1d-921c-4690-81f3-12d7b5e49162"/>
+			<MaterialName value="Material.034"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="3cefa800-e7eb-4713-b60b-627ca19d8f3a"/>
+			<MaterialName value="Material.035"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e5a3c42e-c1b9-4e4e-8d4c-53f82ed60c25"/>
+			<MaterialName value="Material.036"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="09ff999d-f5f6-4ce8-9204-3de5916ed9dc"/>
+			<MaterialName value="Material.037"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="47a9be32-f6c2-48c2-8c64-dd7f90a27338"/>
+			<MaterialName value="Material.038"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="fc6d2fbf-b9c9-4be0-8977-0f1ac26fb623"/>
+			<MaterialName value="Material.039"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="3508a593-f4ec-41c3-bc95-90c28ed0a47c"/>
+			<MaterialName value="Material.040"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="0187311b-b39c-4cdc-a7ec-d7721d441125"/>
+			<MaterialName value="Material.041"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="79024925-a2b2-49c8-9898-8879a4d6f3b7"/>
+			<MaterialName value="Material.042"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="419e6eb9-cfa1-4e25-bf95-14a2e5e4ab8a"/>
+			<MaterialName value="Material.043"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="20f9a94b-0a76-4718-9c3c-c41e24d0c766"/>
+			<MaterialName value="Material.044"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="d9f81bcb-92f5-46f1-bf43-cd395504616c"/>
+			<MaterialName value="Material.045"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="35022342-12d6-4ee2-83ef-c2332b04e7f4"/>
+			<MaterialName value="Material.046"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="3967c45c-22ce-486b-a818-003da10f9d4d"/>
+			<MaterialName value="Material.047"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="0eb3ff70-7bed-4c21-8c0d-00a2ae1264ef"/>
+			<MaterialName value="Material.048"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b3311066-2123-49bf-a260-980acb90a266"/>
+			<MaterialName value="Material.049"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="793d237c-0aa5-4523-912e-92f079cfedba"/>
+			<MaterialName value="Material.050"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="0984f23d-d22f-4288-8555-9edb40d659d0"/>
+			<MaterialName value="Material.051"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="5a3cb33b-a4f2-40e7-9280-008cb3cccd35"/>
+			<MaterialName value="Material.052"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="44058531-b3e6-4f37-8ba3-e42ca69de04a"/>
+			<MaterialName value="Material.053"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="3e71c90a-4d61-41de-9c8e-c2d175206fc1"/>
+			<MaterialName value="Material.054"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="29c8948c-8759-4187-a446-264855b9c5b5"/>
+			<MaterialName value="Material.055"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b0e797aa-8efa-404a-8cfc-18f3b5b1b386"/>
+			<MaterialName value="Material.056"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="7b4f33d1-bb84-4962-ac6b-62cedf361ff6"/>
+			<MaterialName value="Material.057"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="4cc85764-526e-43f2-9065-6d0b5f69e55a"/>
+			<MaterialName value="Material.058"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="53ab50ec-788a-4fb2-abff-a3eded1abb06"/>
+			<MaterialName value="Material.059"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="fad5c717-6aa9-46a3-9f08-d6540b70f6ad"/>
+			<MaterialName value="Material.060"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="72ea8dc9-9c6f-496d-baa7-67afdb2908f3"/>
+			<MaterialName value="Material.061"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="64f69c67-14de-4563-b7a2-25088d7ca2a2"/>
+			<MaterialName value="Material.062"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="dfc57544-8b15-46b5-b5d8-15ead70adcac"/>
+			<MaterialName value="Material.063"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="2f7d6d4e-2a22-4791-89d8-3af0a1b4d2f3"/>
+			<MaterialName value="Material.064"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="d4e57e16-4b32-425a-94d5-919ac30ad5bb"/>
+			<MaterialName value="Material.065"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="78047aee-34e7-488b-8c72-8716b997f593"/>
+			<MaterialName value="Material.066"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="3bb2739a-0cf2-444b-9b6c-3ac7ba7679b4"/>
+			<MaterialName value="Material.067"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a9ed8590-c0d9-4113-ba4b-bbea30e70b72"/>
+			<MaterialName value="Material.068"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="02a0a0da-289a-494d-8d88-56d0d70703cc"/>
+			<MaterialName value="Material.069"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="49790d16-1de2-4ec0-8915-230f26b4490c"/>
+			<MaterialName value="Material.071"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="df26ee94-ca53-4e06-89dd-2498e351c7b1"/>
+			<MaterialName value="Material.072"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="15a486fc-41c8-4233-a8b7-85d01e1a1341"/>
+			<MaterialName value="Material.073"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="5562edbf-59b0-4dda-bd08-eeae2602e567"/>
+			<MaterialName value="Material.074"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="d677cad3-54f9-4e44-bf67-75605187e712"/>
+			<MaterialName value="Material.075"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="01168627-1e20-4181-835d-35cf41c6c576"/>
+			<MaterialName value="Material.076"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="5799c914-6e19-498c-9eff-0eafdb55f51e"/>
+			<MaterialName value="Material.077"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="1aff903b-7b2e-444b-a25a-90840df98051"/>
+			<MaterialName value="Material.078"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="88e1363c-79a6-4373-9bf3-66586b29120d"/>
+			<MaterialName value="Material.079"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="3fa0a943-9eda-40d2-9ec0-33b5b1f72128"/>
+			<MaterialName value="Material.080"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="817c9675-a4bf-416a-a614-dbccbdba352d"/>
+			<MaterialName value="Material.081"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e058a11b-21ec-48e9-ba08-f950fbc1de0c"/>
+			<MaterialName value="Material.082"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="992ceb38-01c3-406e-82b2-a2dd7f97a976"/>
+			<MaterialName value="Material.083"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="5ee225cc-af43-4fce-abbb-60536624e7db"/>
+			<MaterialName value="Material.084"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e40fac49-f977-43be-8c6f-65bb3f55f39e"/>
+			<MaterialName value="Material.085"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="889ec10e-55a6-439b-8158-0c84c020cb73"/>
+			<MaterialName value="Material.086"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="5355334b-2295-46da-9b4f-8a487860dbc0"/>
+			<MaterialName value="Material.087"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="33920dd0-b212-4067-8636-a43bfa77e6e3"/>
+			<MaterialName value="Material.088"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="9a5f88cd-40ad-4ff1-92fb-9ff0adbcbcac"/>
+			<MaterialName value="Material.089"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="3e71831a-039a-467b-bc77-36abded6fc56"/>
+			<MaterialName value="Material.090"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="82b66f3c-454a-4e2f-b367-166bd574a22e"/>
+			<MaterialName value="Material.091"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="36cd91b0-c0f4-40bf-89ce-b244d5c84172"/>
+			<MaterialName value="Material.092"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="6ffaacd3-797c-461d-b304-7e832ab8e009"/>
+			<MaterialName value="Material.093"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ce8cc315-ff14-4434-971d-363026d3ed93"/>
+			<MaterialName value="Material.094"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="753e4a1e-b168-49bc-92c6-01cb8e686a60"/>
+			<MaterialName value="Material.095"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e66fa202-acba-4841-acc5-104884597f22"/>
+			<MaterialName value="Material.096"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="459ff427-f61c-4ee0-b4d3-985c69b09dc4"/>
+			<MaterialName value="Material.097"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="5248d7e4-cddd-4c68-8cb1-f300ee987c45"/>
+			<MaterialName value="Material.098"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a47afefb-13ec-4a09-a49d-922b3ce30020"/>
+			<MaterialName value="Material.099"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="5be7f79b-bec0-4dc2-9b96-e7280e50b1bb"/>
+			<MaterialName value="Material.100"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b04d7ea5-4287-41af-a796-c554290dc940"/>
+			<MaterialName value="Material.101"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="87ca3ecf-e306-4304-a123-b8819ad9c80d"/>
+			<MaterialName value="Material.102"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="86742f6b-1331-4237-90c9-524384fde411"/>
+			<MaterialName value="Material.103"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="c00c0818-12f8-404e-9922-1f9ff6c15f2d"/>
+			<MaterialName value="Material.104"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a9c82c36-2ea6-48a8-acf6-c9327d1383dd"/>
+			<MaterialName value="Material.105"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="1117b786-5a3d-4007-ab71-d91f3fe159ea"/>
+			<MaterialName value="Material.106"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="10609ec6-0fa8-48e5-9b8c-af599bca5459"/>
+			<MaterialName value="Material.107"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="dec29350-53cc-41b8-bddf-e145126fdac6"/>
+			<MaterialName value="Material.108"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="4ac8eb49-c559-4bf7-83d8-659ab19acbf8"/>
+			<MaterialName value="Material.109"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="1f8c6bcc-5c0b-467f-bf4b-e073898cbaab"/>
+			<MaterialName value="Material.110"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="d37f2d78-43f5-4d65-9b0f-f3114da639d3"/>
+			<MaterialName value="Material.111"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="3ef58d86-bdbc-4ff8-b5f5-45bffb07007b"/>
+			<MaterialName value="Material.112"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="32129b7e-e98a-4777-a87a-b27c04489764"/>
+			<MaterialName value="Material.113"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="5e2d9a95-dc67-4d8e-8a61-11d219226fb0"/>
+			<MaterialName value="Material.114"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="463c9fc5-911a-49c7-a399-03de42c7d65e"/>
+			<MaterialName value="Material.115"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="fb7f53e6-f979-48c7-9806-abc2868650c1"/>
+			<MaterialName value="Material.116"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="d8ccbe5b-2519-45ca-b546-5619ce47de98"/>
+			<MaterialName value="Material.117"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="473b716a-88ad-4bd4-8522-97645f9092c4"/>
+			<MaterialName value="Material.118"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="7f5b5ea4-8653-465e-8141-aead09d4d6de"/>
+			<MaterialName value="Material.119"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="abaac234-ad9c-4d14-8126-bb036a7ca9a6"/>
+			<MaterialName value="Material.120"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e3fe29fc-9893-42c6-94da-be3296c5fafb"/>
+			<MaterialName value="Material.121"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a0d56c33-12a5-4f5b-8136-af4b2fbfcf09"/>
+			<MaterialName value="Material.122"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="f255d689-431b-4009-a574-ad48df837528"/>
+			<MaterialName value="Material.123"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="6c482f2f-4edb-4b9e-970b-0337fc25f53e"/>
+			<MaterialName value="Material.124"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="59b6b4d1-b803-4d55-b10d-974bf3f7a576"/>
+			<MaterialName value="Material.125"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="931450a7-f8b3-445b-913d-79e0f2445878"/>
+			<MaterialName value="Material.126"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="7bd31654-9d31-48be-98e0-be4bc346d76c"/>
+			<MaterialName value="Material.127"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="65b00184-8b02-404a-b0e8-ca7cbc1edd93"/>
+			<MaterialName value="Material.128"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="894d43ae-06b9-4a66-870c-d2d78da5c8aa"/>
+			<MaterialName value="Material.129"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="9af0142b-cf33-44b9-a793-1a9704b87464"/>
+			<MaterialName value="Material.130"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="4461d738-a3c3-4336-a082-89e5354e1923"/>
+			<MaterialName value="Material.131"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="8d469eec-9cbe-4372-ba31-6b34440f33e3"/>
+			<MaterialName value="Material.132"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="dc0056ac-3eaa-4c23-88c2-630e9f0fc0d2"/>
+			<MaterialName value="Material.133"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="3a452dfd-5cfe-4d0f-a69c-317c9972b5a5"/>
+			<MaterialName value="Material.134"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a8ff6be1-dcf9-4b6f-abc5-ef0d63929b3b"/>
+			<MaterialName value="Material.135"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="d194449e-1a2e-4be3-b21c-965470a5f6b9"/>
+			<MaterialName value="Material.136"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="dbaa7c09-56cf-481b-a0c0-d93cb8e179cb"/>
+			<MaterialName value="Material.137"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="27a44e9e-f6f0-4b68-a3b6-179275b17380"/>
+			<MaterialName value="Material.138"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="c221d2d6-c123-4f31-9e54-a8e7a4dd749d"/>
+			<MaterialName value="Material.139"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="abfe6409-70c5-462d-a6d0-4e8998fcfcac"/>
+			<MaterialName value="Material.140"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="07e00c33-3f96-4b5c-a2b3-0993183b6caa"/>
+			<MaterialName value="Material.141"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="f17c0963-8319-48d8-8d92-67a491193a27"/>
+			<MaterialName value="Material.142"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b6c66d33-a8d5-4e92-9e8f-6b392a6b4fce"/>
+			<MaterialName value="Material.143"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="c15a5c42-0a5b-4a87-b43d-d924f08ffb88"/>
+			<MaterialName value="Material.144"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a700ae9a-b032-47e7-b85b-21a6128d53e7"/>
+			<MaterialName value="Material.145"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="8aed80fc-2196-443f-995d-7e9a8cbe903c"/>
+			<MaterialName value="Material.146"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="c4595e0f-f2bd-4310-a616-36f8bccea719"/>
+			<MaterialName value="Material.147"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="6533e88b-547c-4f44-9080-b25779a612fd"/>
+			<MaterialName value="Material.148"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="6b5b4cc8-456a-4a8a-bbb9-88c0cb3cc16f"/>
+			<MaterialName value="Material.149"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="176914c4-3d92-4465-ba58-50b009974557"/>
+			<MaterialName value="Material.150"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="4b7ea47c-1ce4-4098-a374-ce06d022a122"/>
+			<MaterialName value="Material.151"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="874c3297-234f-4e58-ae91-c2bc7f1e61c5"/>
+			<MaterialName value="Material.152"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="00bb17ae-27eb-4a62-bbe2-d7da0e76c765"/>
+			<MaterialName value="Material.153"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e0d4f9ec-bd67-4f86-8fa7-9466fc6721bd"/>
+			<MaterialName value="Material.154"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="6bcf70a8-a4f8-4c79-89e3-31dad4834b88"/>
+			<MaterialName value="Material.155"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="083266bf-98e7-4e58-940e-d98e5b97de8b"/>
+			<MaterialName value="Material.156"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="7c6eba18-de72-492e-8009-14cebeee43fb"/>
+			<MaterialName value="Material.157"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="0df02adb-3fd8-4cee-aa60-1552fd70a9a8"/>
+			<MaterialName value="Material.158"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="fd3337f1-c72e-4a50-965c-494db3a658fe"/>
+			<MaterialName value="Material.159"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="f1c8856a-2410-433e-9828-8d1dc0a5162f"/>
+			<MaterialName value="Material.160"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="8efd4f2c-de54-438f-b543-b2bbcd43ddd1"/>
+			<MaterialName value="Material.161"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="453dc4b6-365b-4463-afc5-bcafc2ced0c1"/>
+			<MaterialName value="Material.162"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="39ea63d5-4f85-4228-bab5-6962b042414c"/>
+			<MaterialName value="Material.163"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="54066a8f-e234-41f9-81a3-a9954c8374b4"/>
+			<MaterialName value="Material.164"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a205b85b-56c6-4206-865d-955867145479"/>
+			<MaterialName value="Material.165"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="d30927c5-912f-4bc5-80f4-08d5c82d1972"/>
+			<MaterialName value="Material.166"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="00c34a5a-014c-4b26-80ee-dc8da062a5ee"/>
+			<MaterialName value="Material.167"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="05562051-216a-47e2-a99c-93ace448e389"/>
+			<MaterialName value="Material.168"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="84120ac8-e3b5-4e5d-8e79-8632c0db700c"/>
+			<MaterialName value="Material.169"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="5f1bdf43-60a0-4258-917b-3ab36571da7f"/>
+			<MaterialName value="Material.170"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="2671ea82-ccf2-41cb-9252-3666343420ea"/>
+			<MaterialName value="Material.171"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b096d448-71bd-4a57-8fd0-a91983e994c2"/>
+			<MaterialName value="Material.172"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="9feadcd8-c709-4505-bff1-b2245775e8e4"/>
+			<MaterialName value="Material.173"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="5448173c-2e08-4525-8b27-42f0ae033013"/>
+			<MaterialName value="Material.174"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="874b33a4-de8e-4a74-8d82-0b5bffc8c7c1"/>
+			<MaterialName value="Material.175"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="64cb8706-6250-4a65-962c-5dde5230b8a9"/>
+			<MaterialName value="Material.176"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="d4d494e3-1a16-4b4c-8108-84e3e80877ea"/>
+			<MaterialName value="Material.177"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="74ce99e2-46ae-4d4a-a083-8801165becd1"/>
+			<MaterialName value="Material.178"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="cb7e6d12-60c4-4c8d-a88d-bb97837940c8"/>
+			<MaterialName value="Material.179"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="0910b92e-72c4-416a-8629-6a27b49d7e38"/>
+			<MaterialName value="Material.180"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="6395442f-afd9-418b-bf5c-fb79724d621a"/>
+			<MaterialName value="Material.181"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="f3ab2f50-352e-4bfd-bd11-2ac1aa7064d3"/>
+			<MaterialName value="Material.182"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="f62efefc-bbec-45ec-ace9-c7a2e2bd7063"/>
+			<MaterialName value="Material.183"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="37dca0c6-c0ee-4a46-9449-2c52bb879caf"/>
+			<MaterialName value="Material.184"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b5fde293-3eeb-4b60-b34d-d0e416df1c77"/>
+			<MaterialName value="Material.185"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="44929a55-3a9b-4e4f-9632-7a2a4ecbb026"/>
+			<MaterialName value="Material.186"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="2ece2180-4348-4210-a6a1-af6b47636d7b"/>
+			<MaterialName value="Material.187"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="88db5c00-40f7-4359-b5de-4bcfaabe32de"/>
+			<MaterialName value="Material.188"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="430b3791-0601-425a-9022-637b1d445b14"/>
+			<MaterialName value="Material.189"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="7ef8a217-199b-43b7-b128-32ba08a86291"/>
+			<MaterialName value="Material.190"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ea4c448b-67a8-4169-a8c2-a8d04de1d10f"/>
+			<MaterialName value="Material.191"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="6ff5a2ba-ffeb-408e-b991-fb655a6efe8d"/>
+			<MaterialName value="Material.192"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="6e3fcc78-1a1a-4d26-a640-5fa50de1eaeb"/>
+			<MaterialName value="Material.193"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="118e76c5-71ec-437e-acb0-9fa15e95a2f9"/>
+			<MaterialName value="Material.194"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="5b4088a0-2d3a-440d-b692-9c15a8236287"/>
+			<MaterialName value="Material.195"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="459da0d9-4949-4082-bdae-9762bcf4c5aa"/>
+			<MaterialName value="Material.196"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="8789beb8-bba1-4823-8bc4-0a1aed83f313"/>
+			<MaterialName value="Material.197"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="9cf8b7e9-22d7-41d2-a110-17b3e4995c7d"/>
+			<MaterialName value="Material.198"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="1bf52bbb-3db8-48cf-abce-16a22a987c4d"/>
+			<MaterialName value="Material.199"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="d495fa34-5404-4716-a1ef-a1365c31ad41"/>
+			<MaterialName value="Material.200"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="c318ecc8-fa44-46fe-bc5d-c8a536286fdc"/>
+			<MaterialName value="Material.201"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="d559e569-7bf1-417a-984f-46f05dce1bd9"/>
+			<MaterialName value="Material.202"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a07133ec-c038-4dbc-8c39-e752c0f0d07d"/>
+			<MaterialName value="Material.203"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="566adae9-2c85-4065-b43b-728643a6c86e"/>
+			<MaterialName value="Material.204"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="d18df9f9-59bb-4c2e-bcdd-7005e2dea605"/>
+			<MaterialName value="Material.205"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="5bad7eb3-c365-42fe-920f-9e3b85422a67"/>
+			<MaterialName value="Material.206"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="505577df-646d-4087-b90b-c1a59fe74505"/>
+			<MaterialName value="Material.207"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="2e02aa2c-af73-41aa-9956-210035cc7e7d"/>
+			<MaterialName value="Material.208"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="61a89e1d-3776-4bbf-bb3c-b1fc51b39506"/>
+			<MaterialName value="Material.209"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="1b80a211-528f-4425-8fd3-0ab0110e4d3e"/>
+			<MaterialName value="Material.210"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="d74e9835-d408-4837-895e-575f88a122db"/>
+			<MaterialName value="Material.211"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="8c92d3b4-7ba5-49a0-bda1-f10b112f8a8f"/>
+			<MaterialName value="Material.212"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="38daea0c-baa7-4e4c-a4f2-6cd9a416997b"/>
+			<MaterialName value="Material.213"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="1b3c2db9-b7ff-4616-bc8b-8647cb7c6c9e"/>
+			<MaterialName value="Material.214"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="c30eca05-33bf-4718-b4d2-a784dad1dc4a"/>
+			<MaterialName value="Material.215"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a2152ab7-35d4-40d0-9ae3-1aa5d132bb6a"/>
+			<MaterialName value="Material.216"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b81d4c98-0c34-4322-b74b-fe0cff3c5b92"/>
+			<MaterialName value="Material.217"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="d3ce2769-ac5f-4069-967c-ed06d1cbb6c1"/>
+			<MaterialName value="Material.218"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="14525ac7-f9a5-4266-aca1-656399557522"/>
+			<MaterialName value="Material.219"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ca7b9357-cc29-4ba0-951f-f607ab856896"/>
+			<MaterialName value="Material.220"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="c27fef3f-222a-4afb-b59c-9d8f7dd2c5e4"/>
+			<MaterialName value="Material.221"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a0dff975-fc08-4fd6-863a-c6f744c41565"/>
+			<MaterialName value="Material.222"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="cecef687-5194-4141-a895-bc98ffa775f3"/>
+			<MaterialName value="Material.223"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="0f594084-5a99-46ba-ba0c-de2810ff5f93"/>
+			<MaterialName value="Material.224"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="847b865b-a8fd-4bf0-b4c1-9844b34dc382"/>
+			<MaterialName value="Material.225"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="1bd31917-1fb8-4700-b1bd-ea82d79577f8"/>
+			<MaterialName value="Material.226"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="351fbbd8-7bef-4ab9-b766-6d91fd3c71be"/>
+			<MaterialName value="Material.227"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="4bab9d94-70f0-4f42-89d4-55dd763f587f"/>
+			<MaterialName value="Material.228"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="d963bcdb-5b7f-454c-9aaf-58fda70c8e37"/>
+			<MaterialName value="Material.229"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b62031b3-64db-4090-931f-553256051441"/>
+			<MaterialName value="Material.230"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="7ca803b1-f745-4ec9-abe0-0dab781de476"/>
+			<MaterialName value="Material.231"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="be9bd060-784a-43a5-abef-f5057ede98e2"/>
+			<MaterialName value="Material.232"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a0cfd912-63ae-4f19-8a24-de6bcb81d588"/>
+			<MaterialName value="Material.233"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="81f5d8ac-392d-46ea-bf2c-c23b8f38999d"/>
+			<MaterialName value="Material.234"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="98e07be1-7201-4c35-96a3-39c32b89c446"/>
+			<MaterialName value="Material.235"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="eb5c289e-62d8-4eb3-ada0-58009e29927c"/>
+			<MaterialName value="Material.236"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="cd8b73f0-1685-4f44-b89a-ac3860243886"/>
+			<MaterialName value="Material.237"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ead2bdc0-78d6-4c2a-9307-0e1d336c5293"/>
+			<MaterialName value="Material.238"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="52c5197f-4c1a-43f1-9c2a-753367496ace"/>
+			<MaterialName value="Material.239"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="3f6f11d5-7470-4f47-bcde-80e9d916e2eb"/>
+			<MaterialName value="Material.240"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="88e73e4a-b3c1-4aad-b899-e905d471cbc3"/>
+			<MaterialName value="Material.241"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="176a69c7-d27f-4a36-96de-666b41fbc28d"/>
+			<MaterialName value="Material.242"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e3a4e0da-cdba-4f5f-9382-85cc47b4d8aa"/>
+			<MaterialName value="Material.243"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="95c5ba9b-2dff-4fa8-b2ef-999311a756d3"/>
+			<MaterialName value="Material.244"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="18c7da96-9df4-4a58-8ee2-9fd7d10f4376"/>
+			<MaterialName value="Material.245"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a6876ebf-5e0b-46f3-97b7-130cdac697d9"/>
+			<MaterialName value="Material.246"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="eb3607b0-c717-43ed-888e-a0ee4bdecd82"/>
+			<MaterialName value="Material.247"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="251677da-e58f-461b-9c66-bed8e2275f3d"/>
+			<MaterialName value="Material.248"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="0daa51f6-7d69-4e25-87f3-ffbe2443d00a"/>
+			<MaterialName value="Material.249"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="51969d91-75d7-4f56-97ba-9bae41ab4f9b"/>
+			<MaterialName value="Material.250"/>
+		</Item>
+	</MaterialList>
+</importer>
+
